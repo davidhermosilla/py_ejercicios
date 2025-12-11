@@ -1,0 +1,1218 @@
+number,title,updated_at,html_url
+14495,[Bug]: [UI] - Add input validation related to ZAP warnings,03/12/2025,https://github.hpe.com/hpsd/nfvd/issues/14495
+14494,Discovery API validation errors verification test cases have to be moved to E2E,27/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14494
+14493,[DOC] Improve documentation related to SORPRESAS,25/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14493
+14491,SOR id apparently missing in HPSA for a FFAPI job due to unavailability of HPSA REST API,02/12/2025,https://github.hpe.com/hpsd/nfvd/issues/14491
+14489,Discovery APIs not returning HTTP request validation errors correctly,26/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14489
+14488,[Feat]: [UI] Update ``js-yaml`` library related to ``CVE-2025-64718``,03/12/2025,https://github.hpe.com/hpsd/nfvd/issues/14488
+14484, In ON_ERROR job notifyVNF job description shows Operation finished successfully instead of error detail message sent in the notification request,02/12/2025,https://github.hpe.com/hpsd/nfvd/issues/14484
+14482,Address logback-core CVE-2025-11226 Medium vulnerability in Container Microservice [Not vulnerable],02/12/2025,https://github.hpe.com/hpsd/nfvd/issues/14482
+14481,[Installer]:  Ansible implementation to support ISSU for the Discovery re-architecture,01/12/2025,https://github.hpe.com/hpsd/nfvd/issues/14481
+14480,[NFVO 7.5.0]: Release Checklist,01/12/2025,https://github.hpe.com/hpsd/nfvd/issues/14480
+14479,[RESEARCH] Effort Tracking issue for Post Quantum Cryptography,14/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14479
+14475,FFAPI logic to dump collect information for SORPRESAS is incorrect in some cases,14/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14475
+14474,Training and Knowledge sharing sessions during PI-09...,12/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14474
+14473,Troubleshoot issues related to NFVO 8.0.0 Major update...,12/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14473
+14469,Disable http2 in IdP,21/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14469
+14467,[Installer] Offline Simplex upgrade Installation from v7.5.0 to v7.6.0 using EDB database,05/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14467
+14466,Validate offline installation/upgradation of 7.6.0 GA on RHEL 8.x Enviornment,06/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14466
+14462,[E2e] Issue to fix intermittent failure noticed in Validate Change CNF Rollback Cnf-KOScenario5 in CNFLifeCycleChangeCNFPackageNonTLDMode suite,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14462
+14461,[EPIC] Support latest HPESA version for NFVO 7.6.0 release,06/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14461
+14460,How to handle ISSU in discovery rearchitecture,02/12/2025,https://github.hpe.com/hpsd/nfvd/issues/14460
+14459,SORPRESAS fails to allocate resources,25/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14459
+14458,E2E tests to check if sensitive info is logged,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14458
+14456,Update struts2-core library to latest version,26/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14456
+14455,[NFVO 7.6.0] Test Suite Stabilization,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14455
+14454,[E2E] Research + Improve  CNFLifeCycleChangeCNFPackageNonTLDMode in VZ env,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14454
+14451,Resource allocation using SORPRESAS workflow and scripts does not work in NFVD 7.x (5393247668),04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14451
+14450,NFVO Defects Resolution PI 9,02/12/2025,https://github.hpe.com/hpsd/nfvd/issues/14450
+14449,[Test] [UI] E2E for Automatic mechanism to reconciliate the CNFs of our NFVO inventory with the actual status of Kubernetes,21/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14449
+14448,[Docs]: RN and documentation related to UOC update v3.1.19,05/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14448
+14447,[Feat]: [UI] Upgrade UOC to v3.1.19,05/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14447
+14446,[EPIC] Upgrade UOC to v3.1.19,05/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14446
+14445,Check for token masking in discovery has to be made case insensitive,03/12/2025,https://github.hpe.com/hpsd/nfvd/issues/14445
+14444,[Feat] [UI] Automatic mechanism to reconciliate the CNFs of our NFVO inventory with the actual status of Kubernetes,30/10/2025,https://github.hpe.com/hpsd/nfvd/issues/14444
+14443,"e2e validation to check that the vimConnectionId of ETSI V2 Instantiate, Change VNFKG and Change Ext Conn requests are consistent when using VNFM Authentication",06/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14443
+14442,Modify migration tool to reencrypt DB password in discovery,01/12/2025,https://github.hpe.com/hpsd/nfvd/issues/14442
+14439,[NFVO 7.6.0] Things to be added into Release Notes for this milestone,12/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14439
+14438,[NFVO 7.6.0] R&D Effort Reporting for CPE Activities,05/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14438
+14437,[NFVO 7.6.0] FF API tests- Troubleshooting - Effort Tracking,07/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14437
+14436,[NFVO 7.6.0] E2E UI component Test Suite - Troubleshooting - Effort Tracking,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14436
+14435,[NFVO 7.6.0] R&D Effort Reporting for Support Issues,05/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14435
+14434,[NFVO 7.6.0] Vulnerability impact assessment and triage effort,05/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14434
+14433,[NFVO 7.6.0] Publish Security Bulletin,29/10/2025,https://github.hpe.com/hpsd/nfvd/issues/14433
+14432,[NFVO 7.6.0] E2E Test Suite nightly and VZ DB execution - Troubleshooting - Effort Tracking - CNF,07/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14432
+14431,[NFVO 7.6.0] Retro for 7.5.0 release,02/12/2025,https://github.hpe.com/hpsd/nfvd/issues/14431
+14430,[NFVO 7.6.0] E2E Test Suite nightly execution - Troubleshooting - Effort Tracking - Openstack,26/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14430
+14429,[NFVO 7.6.0] E2E Test Suite nightly execution - Troubleshooting - Effort Tracking - ETSI v2,26/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14429
+14428,[NFVO 7.6.0] E2E Test Suite nightly execution - Troubleshooting - Effort Tracking - Classic ETSI,26/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14428
+14427,[NFVO 7.6.0] E2E Test Suite nightly and VZ DB execution - Troubleshooting - Effort Tracking - RateLimit / Onboarding / Unboarding,07/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14427
+14426,[NFVO 7.6.0] E2E Test Suite nightly and VZ DB execution - Troubleshooting - Effort Tracking - vCenter ,07/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14426
+14425,Create a script to reencrypt DB password in discovery,02/12/2025,https://github.hpe.com/hpsd/nfvd/issues/14425
+14424,[Installer]: Configure the VIP on the load balancer to enable service discovery via HAProxy.,01/12/2025,https://github.hpe.com/hpsd/nfvd/issues/14424
+14423,A41 Onboard does not correctly track the progress of OpenStack discovery refresh jobs,03/12/2025,https://github.hpe.com/hpsd/nfvd/issues/14423
+14418,[E2E] Verify tenant name in case of deploy failure in default datacenter,26/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14418
+14417,Decrypt OS DC password before comparison for discovery in onboard api requests,03/12/2025,https://github.hpe.com/hpsd/nfvd/issues/14417
+14413,Migrate discovery to JDK 25,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14413
+14412,Discovery changes for NFVO major 8.0.0,12/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14412
+14410,[Research] Upload the kubectl and helm binary inventories to VTN,24/10/2025,https://github.hpe.com/hpsd/nfvd/issues/14410
+14409,Remove the unused discovery API endpoints,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14409
+14406,`kubectl get events` calls of container-microservice should limit the number of rows returned and filter them by the chart's release name,02/12/2025,https://github.hpe.com/hpsd/nfvd/issues/14406
+14405,[SQL] Delete ONGOING entries in table NFVD_INSTANTIATION (once more),04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14405
+14403,Create DB layer in NFVO Discovery to interact with NFVO DB,01/12/2025,https://github.hpe.com/hpsd/nfvd/issues/14403
+14402,[CCT 1085] Allow Anti-affinity at VDU level using Server_Group (instead of different_host hint),04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14402
+14399,Test case to verify Notification Description is getting used to update parent job description in classic etsi suites,21/10/2025,https://github.hpe.com/hpsd/nfvd/issues/14399
+14391,Remove Discovery Management view,12/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14391
+14387,E2E Test cases to validate the in-progress jobs clean up timer,16/10/2025,https://github.hpe.com/hpsd/nfvd/issues/14387
+14380,Integration testing of discovery after all changes from installer and cloud,13/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14380
+14379,Document the changes for discovery Cloud oriented architecture,13/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14379
+14376,Installer should remove pacemaker for discovery and move the VIP previously managed by it to the load balancer,01/12/2025,https://github.hpe.com/hpsd/nfvd/issues/14376
+14375,Configure discovery controller with DB information,02/12/2025,https://github.hpe.com/hpsd/nfvd/issues/14375
+14374, Install 2 rpms (discovery controller and adapters rpms) instead of one in discovery,02/12/2025,https://github.hpe.com/hpsd/nfvd/issues/14374
+14372,"Add scale in logic to delete pods after discovery in cloud, if serviceaccount token is mounted",26/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14372
+14371,"Create pod containing reconciliation and adapter microservices in cloud, if serviceaccount token is mounted",27/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14371
+14370,Add incoming discovery queue NFVO DB table to dequeue discovery jobs for execution,01/12/2025,https://github.hpe.com/hpsd/nfvd/issues/14370
+14369,Add discovery status cache NFVO DB table and modify the DiscoveryStatusDatastore in discovery controller to use it instead of a hash map,27/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14369
+14368,Create a separate rpm for discovery controller and one more rpm for recon and adapter MS,25/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14368
+14367,NFVD - Load Virtual Machines of Datacenter is failing with transaction timeout on concurrent invocations on a DC with over 3K VMs - 5391216803,11/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14367
+14362,Update containe-microservice for JDK25 and springboot 3.5.6,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14362
+14358,A41 Unboard output parameters for OpenStack DC show detached network/subnetworks items from a shared Virtual Link in PENDING status even when the VL was fully deleted,02/12/2025,https://github.hpe.com/hpsd/nfvd/issues/14358
+14355,Oracle Support Removal from Ansible,06/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14355
+14354,[E2E] Select flavour before deploy instance in VNFLifeCycleScales,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14354
+14353,[Improve E2E tests] Create a cron to bring up minio container on the docker VM if its down,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/14353
+14352,Password values exposed in the logs,26/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14352
+14351,VM Recreation During Flavour Change in chgPackage Operations (5392311266),06/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14351
+14349,[RESEARCH] Ansible Role Automation with Molecule and Jenkins,08/10/2025,https://github.hpe.com/hpsd/nfvd/issues/14349
+14346,Identifiers of some children artifacts under existing Classic ETSI VNF instances and templates trees are not consistent,14/10/2025,https://github.hpe.com/hpsd/nfvd/issues/14346
+14344,RHEL 9.x Compatibility Analysis for NFVO Ansible Installer,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14344
+14341,Migrate nfvd-ff-ldap-connector to JDK 25,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14341
+14340,Migrate nfvd-ff-api to JDK 25 and Jakarta EE,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14340
+14338,Create a Migration Guide from NFVO 7.x to NFVO 8.x,05/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14338
+14337,ETSI V2 Change VNFPKG fails if internal virtual links connections are changed before triggering the operation,03/12/2025,https://github.hpe.com/hpsd/nfvd/issues/14337
+14335,Migrate nfvd-ff-container-microservice-client,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14335
+14334,Migrate nfvd-ff-vcenter-microservice-client,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14334
+14333,Migrate nfvd-ff-generic-microservice-client,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14333
+14332,Migrate nfvd-ff-sc-mwfm,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14332
+14330,Migrate nfvd-ff-openstack-client to JDK 25,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14330
+14329,Align NodeJS / CouchDB version to UOC recommended version,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14329
+14328,Migrate nfvd-ff-model to JDK 25,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14328
+14327,Migrate nfvd-ff-etsi-vnfm-client to JDK 25,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14327
+14326,Migrate nfvd-ff-core to JDK 25,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14326
+14325,Migrate nfvd-ff-automation to JDK25,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14325
+14324,Cloud oriented architecture for discovery processes [5391265962],02/12/2025,https://github.hpe.com/hpsd/nfvd/issues/14324
+14321,Disable cgroups v2 for RHEL 9.x,05/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14321
+14320,Migrate nfvd-ff-database projects to JDK 25,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14320
+14319,Migrate nfvd-ff-e2e-tests to JDK 25,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14319
+14318,Migrate FF repositories to JDK 25,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14318
+14317,Migrate nfvd-ff-encryption-utils to JDK25,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14317
+14316,Migrate FF API to JDK 25,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14316
+14315,Support next 8.0.0 Major version for NFVO,28/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14315
+14310,"[Bug]: New DC discovery fails with error ""None of ids of pre-discovered tenants are matching with Openstack tenant ids.""",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/14310
+14304,Test case for Create instance failing for the Samsung ACPF due to null in template,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14304
+14293,Allow removal of DC or namespace detach (for K8 DCs) in A41 Unboard API if it is attached to a VNFG with VNFs ,07/10/2025,https://github.hpe.com/hpsd/nfvd/issues/14293
+14290,e2e test cases with GVNFM for the display of Virtual Machine names in NFVO ETSI V2 VNFs deployed on OpenStack ,15/10/2025,https://github.hpe.com/hpsd/nfvd/issues/14290
+14284,[RESEARCH] Check if `meta.helm.sh/release-name` can be used to filter in GET TOPOLOGY,17/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14284
+14271,Expose Discovery API into /nfvd-ext context (5391734610),26/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14271
+14270,[Task] [UI] Drop use of  ``RappidJS / JointJS+`` in favor of ``JointJS`` opensource,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14270
+14269,[RESEARCH] ETSI VNF VIRTUAL PORT artifacts are being recreated on discovery and not reconciling if their INFO.MAC attribute is empty,13/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14269
+14263,"During Get topology at chart level, the Job description is not getting updated correctly when custom topology is set in chart",01/12/2025,https://github.hpe.com/hpsd/nfvd/issues/14263
+14260,[RESEARCH] increased DB CPU utilization for particular query- during both performance testing of USM upgrades and undeploy operations with EDB 13 and EDB 15[5388773755],01/12/2025,https://github.hpe.com/hpsd/nfvd/issues/14260
+14249,"Document gaps to be compliant with ""Post-Quantum Cryptography Policy""",14/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14249
+14246,Mail notifications are not sent for users,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14246
+14245,[Task] [UI] Removal of ``xinetd``,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14245
+14227,Improve  `discovery-ms-admin.sh` to display the correct status of discovery services after a failed/successful start,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/14227
+14224,[NFVO 7.5.0]: Feature-independent doc improvements,02/10/2025,https://github.hpe.com/hpsd/nfvd/issues/14224
+14195,[nfvd-ff-container-microservice] Improve memory management when building HTTP requests for non TLD CNF callbacks in container-ms,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14195
+14171,Offline Upgrade Failure from NFVO 7.3.0 to NFVO 7.4.0,14/10/2025,https://github.hpe.com/hpsd/nfvd/issues/14171
+14167,Review and fix the use of the ConcurrencyService in `Migrate from v1 to v2 model` operation,12/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14167
+14166,Review and fix the use of the ConcurrencyService in V2 model `Create VNF instance target version` operation,24/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14166
+14165,Review and fix the use of the ConcurrencyService in V2 model `Adopt Vnf` operation,24/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14165
+14163,Review and fix the use of the ConcurrencyService in V2 model operations,18/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14163
+14160,[RESEARCH] Performance deleting large organizations,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14160
+14159,[RESEARCH] Improve Delete pakage in use performance ,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14159
+14140,[Task] [UI] Integration of NFVO UI unit and E2E tests with Spira,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14140
+14106,Spike - Automatic mechanism to reconciliate the CNFs of our NFVO inventory with the actual status of Kubernetes,23/09/2025,https://github.hpe.com/hpsd/nfvd/issues/14106
+14087,[FF_API][E2E Tests] Create new E2E test cases to validate the v2 check quota feature,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/14087
+14084,[NFVO 7.3.2] Generate NFVO 7.3.2,01/12/2025,https://github.hpe.com/hpsd/nfvd/issues/14084
+14081,[NFVO 7.3.2] NFVO 7.3.2 MR,01/12/2025,https://github.hpe.com/hpsd/nfvd/issues/14081
+14077,E2E test cases for Pre/Policy alignment epic in non tld/tld cnf and vnf flows,12/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14077
+14076,Documentation Improvement for Pre/Post Policies for tld/non tld mode and VNFs,12/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14076
+14073,[FF_API] Modify ETSI v2 operations to include check-quota flag in their job request_content,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/14073
+14072,[FF_API] Create GrantQuotaCalculation method in GrantService,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/14072
+14069,[NFVO 7.5.0] Vulnerability impact assessment and triage effort,28/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14069
+14068,[NFVO 7.5.0] Publish Security Bulletin,19/06/2025,https://github.hpe.com/hpsd/nfvd/issues/14068
+14060,[Task] Update E2E UI tests to use with cypress 14,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/14060
+14059,"[Integrated API-UI test] ""Migrate CNFs within NFV-O Catalog"" not displaying correctly CNFs deployed in several namespaces with manual placement",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/14059
+14058,"[Docs] Documentation and RNs for ""Migrate CNFs within NFV-O Catalog"" not displaying correctly CNFs deployed in several namespaces with manual placement",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/14058
+14057,"[Bug]: ""Migrate CNFs within NFV-O Catalog"" not displaying correctly CNFs when deployed with manual placement in several namespaces",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/14057
+14055,[nfvd-ff-api] Add configurable timeouts for HTTPURLConnectionImpl REST connections,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/14055
+14053,"[Epic]: ""Migrate CNFs within NFV-O Catalog"" not displaying correctly CNFs deployed in several namespaces with manual placement",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/14053
+14052,[FF_API] New API to modify Tenant Openstack Quotas,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/14052
+14046,[Test]: [UI] E2E quota in ETSI v2 LCM operation test suite,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/14046
+14045,[Integrated test API-UI] Integration test for quota check in ETSI v2 LCM operations,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/14045
+14044,[Docs] Documentation and RN related to Quota check for ETSI v2 LCM operations,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/14044
+14042,[Feat]: [UI] Quota check for ETSI v2 model LCM operations,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/14042
+14040,[FF_API] New API to retrieve Tenant Openstack Quotas,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/14040
+14038,[Feat]: [UI] Openstack tenant quota management,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/14038
+14014,SQL utility Improvements,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14014
+14009,[nfvd-ff-model] E2E tests for TLD validations of SQL Export Utility,20/10/2025,https://github.hpe.com/hpsd/nfvd/issues/14009
+14006,[nfvd-ff-model] Use SLF4J logging for SQL Export Utility logs,12/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14006
+14005,Improve local.sh script for vm execution to support wait time and retries,12/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14005
+14002,"Improve non tld mode for Local execution of pre/post policy - multiple execution, consider stdin , include retries and wait time etc",12/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14002
+14001,Align TLD mode with non tld for Local execution of pre/post policy,12/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14001
+14000,Model changes to POLICY:POSTPRE_PROCESSING artifact,12/11/2025,https://github.hpe.com/hpsd/nfvd/issues/14000
+13989,CNF NON-TLD mode observations for enhancments/defects,04/06/2025,https://github.hpe.com/hpsd/nfvd/issues/13989
+13976,v2anilla Sky - Quota provisioning and available capacity check,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13976
+13975,Support IN and NOT IN filters in SQL queries generated by findByPath APIs path expressions,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13975
+13950,Improve performance of query vnf in v2 model instances,26/11/2025,https://github.hpe.com/hpsd/nfvd/issues/13950
+13924,Generate NFVO 7.0.3,30/04/2025,https://github.hpe.com/hpsd/nfvd/issues/13924
+13923,Additional NFVO 7.0.3 efforts,30/04/2025,https://github.hpe.com/hpsd/nfvd/issues/13923
+13922,[NFVO 7.0.3] Release Checklist,30/04/2025,https://github.hpe.com/hpsd/nfvd/issues/13922
+13898,[Doc] Handle empty deployment variables in the flows if modified,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13898
+13897,[EPIC] Handle empty deployment variables in non TLD Change CNF Package,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13897
+13894,[Test]: [UI] - E2E Target helm charts not included in change CNF package version when deployment variables not present,22/04/2025,https://github.hpe.com/hpsd/nfvd/issues/13894
+13893,Target helm charts not included in change CNF package version when deployment variables not present (5388227480),09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13893
+13889,Misalignment and improvements related to local pre/post policy execution ,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/13889
+13877,[Bug]: OpenStack discovery reconciliation instance gets stuck after a failure at Datacenter Discovery task/step,27/11/2025,https://github.hpe.com/hpsd/nfvd/issues/13877
+13875,[NFVO 7.4.0]: Feature-independent doc improvements ,02/07/2025,https://github.hpe.com/hpsd/nfvd/issues/13875
+13866,"Manual Integration tests for ""Project 🪐Star wars 🪐- The vCloudVirtualization Awakens"" - features included in 740",27/05/2025,https://github.hpe.com/hpsd/nfvd/issues/13866
+13842,Include license snippet to check new HPSA license inside HPSA solutions,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13842
+13841,"Include pd file in NFVModel, NFVAuto, OSPLUGIN and VNFM solutions",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13841
+13799,Documentation for vCloud Epic,27/05/2025,https://github.hpe.com/hpsd/nfvd/issues/13799
+13784,"[Test]: Integrated tests for performance enhancement in ""Import shared virtual links""",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13784
+13782,"[Feat]: [UI] Adapt new query for ""Import shared virtual links""",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13782
+13781,"[EPIC] Performance enhancement of ""Import Shared virtual links""",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13781
+13776,CNF Troubleshooting - Pod Delete,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13776
+13746,Project License Impossible,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13746
+13725,[Feat]: [UI] - Rework scroll in list of VNFs for particular user,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13725
+13698,Dynamic metadata lookup as part of ResolveMetaReferencesService,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13698
+13697,[Feat]: [UI] - Adapt new query to fulfil templates data in VNF designer / VNF component designer,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13697
+13685,2 - Make isVcloud attribute available in several APIs ,27/05/2025,https://github.hpe.com/hpsd/nfvd/issues/13685
+13684,"[E2E TESTS] Wrong ""constant:Accept"" header in WF_TS_DELETE_VOLUME_INVENTORY",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13684
+13673,Handle empty deployment variables in NFVD - FF API and/or Container MS,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13673
+13648,[E2E tests] V2 Model Change Current VNF Package Rollback operation is sending an incorrect value in Version header,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/13648
+13635,Remove from NFVD_CONFIGURATION table some keys moved to nfvd-endpoints.properties,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13635
+13620,Project A41 - Phase IV (Only API) - Unboarding dry-run option,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13620
+13618,Externalize variable for vCloud Microservice vcloudservice.endpoint ,27/05/2025,https://github.hpe.com/hpsd/nfvd/issues/13618
+13601,Installation and configuration of nfvd-vcloud packages,29/05/2025,https://github.hpe.com/hpsd/nfvd/issues/13601
+13598,Additional NFVO 7.2.1 efforts,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/13598
+13597,[NFVO 7.2.1] Release Checklist,07/02/2025,https://github.hpe.com/hpsd/nfvd/issues/13597
+13592,2 - Update Authentication API at DC and Org Vcloud level ,27/05/2025,https://github.hpe.com/hpsd/nfvd/issues/13592
+13591,"Implement vCloud microservice communicates over HTTP, while the load balancer uses HTTPS with SSL offloading.",27/05/2025,https://github.hpe.com/hpsd/nfvd/issues/13591
+13585,[Test]: [UI] - E2E Import networks in vnf group with several datacenters test suite,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13585
+13581,Issues in the NFVD-latest file,04/02/2025,https://github.hpe.com/hpsd/nfvd/issues/13581
+13578,4 - VCLOUD Microservice (Query Org VDC hardware version operation),27/05/2025,https://github.hpe.com/hpsd/nfvd/issues/13578
+13570,[Task] [UI] - Check CORS vulnerability clearance,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13570
+13567,[E2E]: [UI] - Check preattached volumes at volume import test suite,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13567
+13566,Discovery controller to be enhanced to check for failed Refresh MS on startup,27/03/2025,https://github.hpe.com/hpsd/nfvd/issues/13566
+13546,JobTimer for WAITING jobs forever,14/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13546
+13545,[Task]: [UI] - Delete code related to old vCloud support,27/05/2025,https://github.hpe.com/hpsd/nfvd/issues/13545
+13535,[EPIC] Manage CORS in NFVO UI installations,13/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13535
+13532,Fix medium reliability and low security issues reported in SONAR in NFVD-DISCOVERY,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13532
+13530,Fix medium reliability issues reported in SONAR in NFVD-FF-SC-MWFM,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13530
+13529,Fix medium reliability issues reported in SONAR in NFVD-FF-LOCK-MANAGER,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13529
+13528,Fix medium reliability issues reported in SONAR in NFVD-FF-AUTOMATION,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13528
+13526,Fix medium reliability issues reported in SONAR in NFVD-FF-API,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13526
+13522,CNF Deploy job remains in Waiting forever (5387318954),13/05/2025,https://github.hpe.com/hpsd/nfvd/issues/13522
+13515,Defects found in Oracle DB environments,14/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13515
+13514,Modify nfv-director.sh for nfvd-vcloud-microservice,27/05/2025,https://github.hpe.com/hpsd/nfvd/issues/13514
+13512,Update the security document,27/05/2025,https://github.hpe.com/hpsd/nfvd/issues/13512
+13509,[Test]: [UI] E2E download parameters from package management suite,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13509
+13507,[E2E] Error message in package onboarding not transferred to NFVD,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13507
+13505,VCloud Microservice Generic features,27/05/2025,https://github.hpe.com/hpsd/nfvd/issues/13505
+13503,Summary of Defects RCA Learnings ,01/12/2025,https://github.hpe.com/hpsd/nfvd/issues/13503
+13502,[Test]: [UI] E2E vCloud integration,27/05/2025,https://github.hpe.com/hpsd/nfvd/issues/13502
+13486,[Feat]: [UI] Download parameters file from package management,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13486
+13485,17 - [UI] Undeploy operation for vCloud,27/05/2025,https://github.hpe.com/hpsd/nfvd/issues/13485
+13484,16 - [UI] Deploy operation for vCloud,27/05/2025,https://github.hpe.com/hpsd/nfvd/issues/13484
+13483,"Duplicated ""Time In Queue"" tasks for reposted queued jobs in FF-API with enabled rate limiting",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13483
+13482,[MKS 1245241] [CR23] no login in 992B NFVD (5387098057),27/11/2025,https://github.hpe.com/hpsd/nfvd/issues/13482
+13481,15 - [UI] Adopt operation for vCloud,27/05/2025,https://github.hpe.com/hpsd/nfvd/issues/13481
+13480,Use nfvd_runtime_config to lock A41 onboard and unboard API jobs,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13480
+13479,14 - [UI] VNFG management vCloud integration,27/05/2025,https://github.hpe.com/hpsd/nfvd/issues/13479
+13478,13 - [UI] VDC management vCloud integration,27/05/2025,https://github.hpe.com/hpsd/nfvd/issues/13478
+13477,12 - [UI] Network management vCloud integration,27/05/2025,https://github.hpe.com/hpsd/nfvd/issues/13477
+13470,11 - [UI] Images management vCloud integration,27/05/2025,https://github.hpe.com/hpsd/nfvd/issues/13470
+13469,10 - [UI] Set at user switch the vCloud restrictions,27/05/2025,https://github.hpe.com/hpsd/nfvd/issues/13469
+13468,While doing a `DC discovery` for K8s getting error: `Index 1 out of bounds for length 1`,12/11/2025,https://github.hpe.com/hpsd/nfvd/issues/13468
+13466,9 - [UI] Organization management integration with vCloud,27/05/2025,https://github.hpe.com/hpsd/nfvd/issues/13466
+13465,8 - [UI] Datacenter management for vCloud,27/05/2025,https://github.hpe.com/hpsd/nfvd/issues/13465
+13454,"[Test]: [UI] Navigation from ""VNF list for a particular user"" to ""VDC manager""",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13454
+13450,Job tracking tasks can't be fetched by FF-API in Oracle DB environments,14/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13450
+13446,[Test]: [UI] E2E navigate from vnf list for user to VDC manager,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13446
+13444,[Test]: [UI] E2E test Link from job task to VNF / CNF element suite,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13444
+13439,VCLOUD Microservice (QueryVAppsInVDC operation),27/05/2025,https://github.hpe.com/hpsd/nfvd/issues/13439
+13438,VCLOUD Microservice (Change VNF Package operation),09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13438
+13437,VCLOUD Microservice (Query vApp operation),27/05/2025,https://github.hpe.com/hpsd/nfvd/issues/13437
+13436,VCLOUD Microservice (Undeploy vApp operation),27/05/2025,https://github.hpe.com/hpsd/nfvd/issues/13436
+13434,VCLOUD Microservice (Deploy vApp operation),27/05/2025,https://github.hpe.com/hpsd/nfvd/issues/13434
+13433,VCLOUD Microservice (Discovery Operation),27/05/2025,https://github.hpe.com/hpsd/nfvd/issues/13433
+13423,[Feat]: [UI] Usability enhancement in link from job to VDC item,31/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13423
+13396,Deadlock while doing upgrade from 7.1.0 to 7.2.0 (plus GVNFM),09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13396
+13394,[E2E] ETSI VNF VDU with 2 image references fail to INSTANTIATE,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13394
+13393,Change CNF package target selection poor usability - 3- NORMAL (No Business Impact) - Telefonica (5386785994),05/03/2025,https://github.hpe.com/hpsd/nfvd/issues/13393
+13388,Add Entity/VNF_Group field for operations,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13388
+13384,Discovery-related actions are not completed when Openstack discovery jobs finish,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13384
+13364,[E2E] [UI] Image assignment after package deletion test suite,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13364
+13363,[Test]: [UI] - E2E Datacenter deletion test suite,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13363
+13361,[Test]: [UI] - E2E Jobs management sorting and filtering test suite,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13361
+13360,[E2E] [UI] Import package: display package file name job tracking test suite,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13360
+13358,[E2E] [UI] VDC manager package filtering test suite,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13358
+13355,[E2E]: [UI] Assing default VDC and VNF group for VNFM,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13355
+13354,[E2E]: [UI] Discovery refresh test suite,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13354
+13353,[E2E]: [UI] Download jobs report test suite,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13353
+13339,Package import failing/ On boarded package with name already present in catalog but package has been modified (5386616323),15/01/2025,https://github.hpe.com/hpsd/nfvd/issues/13339
+13326,Handle both stdout and stderr output from kubectl/helm commands in container-microservice regardless of exit code,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13326
+13324,[RESEARCH] Delete Kubernetes resources FF-API endpoint does not work with super token,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13324
+13318,Oracle JDBC Driver using different versions for NFV-O,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13318
+13317,[E2E]: [UI] - Display error in list of VNFs for a particular user,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13317
+13315,Validate northbound callbacks for all operations in CNF E2E tests,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13315
+13314,Deprecation of HCS,11/07/2025,https://github.hpe.com/hpsd/nfvd/issues/13314
+13308,[UI] - E2E Download VNF parameters suite,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13308
+13300,5 - VCLOUD Deploy API operation,27/05/2025,https://github.hpe.com/hpsd/nfvd/issues/13300
+13296,0 - VCLOUD microservice,27/05/2025,https://github.hpe.com/hpsd/nfvd/issues/13296
+13286,7 - VCLOUD Adopt Operation,27/05/2025,https://github.hpe.com/hpsd/nfvd/issues/13286
+13285,6 - VCLOUD Undeploy API Operation,27/05/2025,https://github.hpe.com/hpsd/nfvd/issues/13285
+13284,4 - Import networks for VCLOUD Datacenter,27/05/2025,https://github.hpe.com/hpsd/nfvd/issues/13284
+13283,3 - Attach Image:VCLOUD_DIRECTOR to Image:Generic for VCLOUD Datacenter,27/05/2025,https://github.hpe.com/hpsd/nfvd/issues/13283
+13281,1 - VCLOUD discovery API & VCLOUD NFVD model,27/05/2025,https://github.hpe.com/hpsd/nfvd/issues/13281
+13278,Intermittent ConcurrentModificationException when running A41 onboard multiple API for the first time after a FF-API restart,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13278
+13274,[Research] Job tracking error details should also be included for Adopt CNF operation,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13274
+13235,Remove Vulnerability due synchronization on method parameter in SC-MWFM,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13235
+13234,Autorollback not working with complex input parameters ,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13234
+13221,[NFVO 7.2.0] Release Checklist,19/12/2024,https://github.hpe.com/hpsd/nfvd/issues/13221
+13219,Remove Vulnerability due  synchronization on method parameter in Lock Manager,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13219
+13210,Image-Management Screen not loading on Oracle-Database-VM due to db-query issue,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13210
+13204,[SPIKE] External LDAP integration,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13204
+13179,Reimport downloaded VNFPs with XML template inside,03/12/2024,https://github.hpe.com/hpsd/nfvd/issues/13179
+13173,E2E to cover Pre-Post policies with scales ,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13173
+13172,E2E tests to cover metadata at VNF and VM level ,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13172
+13171,E2E tests to cover affinity and antiaffinity policies at DC level ,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13171
+13170,Remove nfvd-ff-etsi-vnfm-client and API  code for reactive and proactive VNF Deploys,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13170
+13169,Remove all the documentation related to traffic rules.,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13169
+13168,Remove add traffic rules policies from UI,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13168
+13167,Create a regularization script to delete the traffic rules already provisioned,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13167
+13166,Remove nfvd-ff-automation and nfvd-ff-etsi-vnfm-client code,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13166
+13165,Remove E2E code,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13165
+13162,Remove traffic rules API code,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13162
+13161,Remove model changes and create migration scripts,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13161
+13159,Traffic rules to deprecated ,23/12/2024,https://github.hpe.com/hpsd/nfvd/issues/13159
+13158,[EPIC] Traffic Rules to deprecated,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13158
+13157,Remove reactive and proactive VNF Deploy with Managers documentation and RNs,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13157
+13156,[EPIC] Reactive and proactive Deploy of VNF with manager to deprecated,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13156
+13154,Reactive and proactive Deploy of VNF with manager to deprecated,23/12/2024,https://github.hpe.com/hpsd/nfvd/issues/13154
+13146,Setting BDM-related attributes during import volume operation,29/10/2024,https://github.hpe.com/hpsd/nfvd/issues/13146
+13145,Discovery changes for proper handling of discovered volumes in FF,29/10/2024,https://github.hpe.com/hpsd/nfvd/issues/13145
+13136,Project 💧VANILLA SKY 💧 - Virtualized Application Network Infrastructure Leveraging Limits and Automations,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13136
+13127,[EPIC] Deprecate nfvo endpoints to import VNF packages,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13127
+13126,Delete documentation references to nfvo endpoints to import VNF packages,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13126
+13124,Delete code related to nfvo endpoints to import VNF packages,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13124
+13123,Deprecation of nfvo endpoints to import VNF packages,23/12/2024,https://github.hpe.com/hpsd/nfvd/issues/13123
+13116,Send X-B3-TraceId and X-B3-SpanId as part of SD notifications,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13116
+13112,Magic Hook,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13112
+13093,[UI] - E2E Script management test suite,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13093
+13086,Modify Adopt VM suite to accommodate multiple VM adoption,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13086
+13068,[FIX] WFTransaction module keep leftover in the database after operations,02/12/2025,https://github.hpe.com/hpsd/nfvd/issues/13068
+13066,WFTransaction module keep leftover in the database after operations,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/13066
+13054,ER Error message for parsing error instead of Unexpected error (5385419814),23/10/2024,https://github.hpe.com/hpsd/nfvd/issues/13054
+13047,BDM Volumes Management when VM associated is auto-rollbacked,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13047
+13046,[Test]: [UI] - E2E test job error details suite,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/13046
+13045,Proper handling of volume attachments in different FF use cases: deploy & undeploy VNF / adopt VM with volumes / discover & attach volumes,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13045
+13036,Project 🪐Star wars 🪐- The vCloudVirtualization Awakens,27/06/2025,https://github.hpe.com/hpsd/nfvd/issues/13036
+13034,NFVD 7.0 UI - nfvdDataAccessService.postRouteDeferred calls throwing 404 and not invoking the backend FF API during customization (5385155702),28/10/2024,https://github.hpe.com/hpsd/nfvd/issues/13034
+13013,Add validation to the helm commands output to provide proper message when using a not valid helm binary,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/13013
+13008,[Installer]:Implement to execute in parallel `UI/MF/DS and nfvd_quorum_net_install playbook` on GR Installation ,11/02/2025,https://github.hpe.com/hpsd/nfvd/issues/13008
+13007,[Installer]: Implement to execute in Sequence  `LDAP/EPAS/DB/FF` and `nfvd_quorum_net_install playbook` on GR Installation,11/02/2025,https://github.hpe.com/hpsd/nfvd/issues/13007
+13006,[Installer]: Implement to execute in parallel `UI/MF/DS and nfvd_quorum_net_install playbook` on High Availability Installation ,11/02/2025,https://github.hpe.com/hpsd/nfvd/issues/13006
+13005,[Installer]: Implement to execute in Sequence  ‘LDAP/EPAS/DB/FF’ and nfvd_quorum_net_install playbook` on High Availability Installation,11/02/2025,https://github.hpe.com/hpsd/nfvd/issues/13005
+13004,Document the steps to achieve Uninstall NFVD,17/06/2025,https://github.hpe.com/hpsd/nfvd/issues/13004
+12981,[Automatic Test] Unable to upload same image to different VDCs. V2,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12981
+12980,"[Automatic Test] Openstack discovery of a new DC fails with ""None of ids of pre-discovered tenants are matching with Openstack tenant ids""",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12980
+12979,"[Automatic Test] Notify VNF job is failing during QueryVNF with the exception ""Cannot deserialize value of type java.lang.String from Array value (token JsonToken.START_ARRAY)",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12979
+12976,[Automatic Test] Permit to configure extra params for helm delete,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12976
+12975,[Automatic Test] LCM notification after deploy CNF sends wrong descriptor-id in non-TLD mode,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12975
+12971,[UI] - E2E v2 Adopt VNF test suite,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12971
+12969,[UI] - E2E v2 Change VNF package test suite,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12969
+12926,Code analysis to check possible NPE in Oracle when we use artifactInstanceService.getAttribute().getValue(),09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12926
+12918,[EPIC] NFVD Regression Test case Automation ,14/11/2025,https://github.hpe.com/hpsd/nfvd/issues/12918
+12887,Install helm-plugin as rpm instead of zip,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12887
+12886,Include helm-plugin rpm in the kit,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12886
+12880,Safe procedure for hostname change (5384586601),04/02/2025,https://github.hpe.com/hpsd/nfvd/issues/12880
+12875,Project ✂️ Edward ✂️ Scissorhands (Manostijeras) ✂️ : NFV-D Documentation's haircut,27/03/2025,https://github.hpe.com/hpsd/nfvd/issues/12875
+12873,Deleting the attribute for deprecated previous_deployment_variable and Previous_deployment_variables_apply_changes functionality,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12873
+12866,Add E2E test for change external connectivity 3.6.1 with VipCp,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12866
+12845,Include Documentation for the epic and RN,11/09/2024,https://github.hpe.com/hpsd/nfvd/issues/12845
+12842,[UI] - E2E delete arbitrary kubernetes resources test suite,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12842
+12841,Change mail sender configuration default value (5384668352),09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12841
+12840,[Test]: [UI] - E2E datacenter management test suite,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12840
+12838,[Test]: [UI] - E2E jobs management test suite,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12838
+12831,"The Anti-Affinity policy should, acts as a must instead of relaxing the restriction and deploying the VMs in ""best effort""",06/09/2024,https://github.hpe.com/hpsd/nfvd/issues/12831
+12821,[UI] - E2E v2 Create identifier test suite,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12821
+12820,[UI] - E2E v2 Create instance test suite,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12820
+12788,Review existing Unit tests for Automation nodes and create a new ones,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12788
+12727,Automatic rollback of modifyVnf operation is not working,12/09/2024,https://github.hpe.com/hpsd/nfvd/issues/12727
+12722,[EPIC] New Sonar issues to be fixed and configured the jobs,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12722
+12708,Fix grant in ETSI_ChangeVnfPkgWithPoliciesOK suite to validate defect #12688,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12708
+12699,Force teardown method implementation for VNFs (5383935333),15/10/2024,https://github.hpe.com/hpsd/nfvd/issues/12699
+12698,"To Improvise the error display, When VNF undeploy fails due to missing port in OS (5383935298)",03/12/2024,https://github.hpe.com/hpsd/nfvd/issues/12698
+12691,Support authenticated chart and values.yml files in non TLD mode CNF operations,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12691
+12676,[UI] - Generalize external id post authentication callback for SAML or OIDC,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12676
+12659,[Test]: [UI] - E2E rate limit suite,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12659
+12621,Execute and Check Uninstall commands in NFVD,17/06/2025,https://github.hpe.com/hpsd/nfvd/issues/12621
+12605,Update regarding the usage of API ``/nfvd-ext/domains/<domainId>/datacenters``,12/09/2024,https://github.hpe.com/hpsd/nfvd/issues/12605
+12600,"NFVD When token table is full, it deletes an active token-(SMS-5382894102)(PSC-5382954928)",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12600
+12591,NFVD-FF-MODEL has 1 error in the tests,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12591
+12581,Project AAI (Accelerate Ansible components Installation),17/06/2025,https://github.hpe.com/hpsd/nfvd/issues/12581
+12569,Oracle not validated for HPE Telco NFVD 7.0.0,16/07/2024,https://github.hpe.com/hpsd/nfvd/issues/12569
+12553,[UI] Allow to skip the chart upgrade in Change CNF Package,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12553
+12552,"[API] Skip Chart Upgrade ""Change CNF Package"" API modifications  changes",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12552
+12548,Inserts in NFVD_PROBLEM_DETAILS table are failing for errors longer than 2000 characters,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12548
+12524,"[UI] - Align ""VIM placements"" capacities between UI and API",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12524
+12514,[Test]: [UI] - E2E deploy CNF suite,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12514
+12504,[NFVD v2 Model] Performance improvement Grant API,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/12504
+12503,[NFVD v2 Model] Performance improvement Instantiate VNF API,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12503
+12502,[NFVD v2 Model] Performance improvement Create VNF Identifier API,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12502
+12457,Project The Full Monty - 🎥 error traceability in NFVD 🎥,11/11/2025,https://github.hpe.com/hpsd/nfvd/issues/12457
+12455,[RESEARCH]: Investigate to Optimize Systems required for Installing HA Configuration,17/06/2025,https://github.hpe.com/hpsd/nfvd/issues/12455
+12442,[DESIGN]NFVD does not support metadata replacement in values.yaml that contains stringified yaml sections,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12442
+12419,"Feature request download params file , IP configuration using APIs without create an instance",09/12/2024,https://github.hpe.com/hpsd/nfvd/issues/12419
+12416,E2E tests to cover Config_drive and User_data scripts,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12416
+12407,Improve E2E Test suite VNFLifeCycleOperations to add and delete volumes,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12407
+12399,Vz JPOR: enqueueing async requests of low priority in overload conditions,22/07/2024,https://github.hpe.com/hpsd/nfvd/issues/12399
+12398,[UI] - Sort jobs table by several arguments,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12398
+12389,Create dedicated API for VNF and VNF Component Designer GUI views in FF-API,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12389
+12387,[RESEARCH] Improve Create Datacenter performance,18/11/2025,https://github.hpe.com/hpsd/nfvd/issues/12387
+12369,Remove plain text credentials from Wiremock mappings files in nfvd-ff-e2e-tests repository,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12369
+12360,[UI] Include traceid in job details,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12360
+12318,Queries on Adopt feature v1 model ,25/06/2024,https://github.hpe.com/hpsd/nfvd/issues/12318
+12317,`/migrate-xnf-inventory` API keeps in progress forever if the optional parameter target vdc_id is not received,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12317
+12292,[UI] Instantiate wizard - Analyze wizard state at first load,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12292
+12276,Orchestration Cloud deployment permissions (5382529386),16/12/2024,https://github.hpe.com/hpsd/nfvd/issues/12276
+12259,ETSI v2 interactions with VNFM: improve error messages and fix HTTP codes we send back,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12259
+12255,[UI] Substitute System_Tag header for SystemTag,31/05/2024,https://github.hpe.com/hpsd/nfvd/issues/12255
+12243,Improve error message in Change CNF Package operation in TLD mode when ORIGIN_CREATION.ContainerResourceArtifactID points to non existing artifact,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12243
+12242,Improve error message in Change CNF Package operation in non-TLD mode when ORIGIN_CREATION.ContainerResourceArtifactID points to non existing artifact,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12242
+12232,[CICD] Modify the pipeline to install NFVD VMs to execute some stages in parallel,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12232
+12226,"[UI] - VDC manager: Set ""VNFPs"" as default left sidebar active element instead of ""VNFs""",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12226
+12225,"[UI] - Adapt ""Edit images"" and ""Assign images"" modals to changes in API",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12225
+12182,E2E test for scenario handled in nfvd issue 11011,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12182
+12181,E2E test for scenario handled in nfvd issue 11225,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12181
+12171,[FF-API] New wildfly log formatter replace \n in error and exception in logs,08/07/2024,https://github.hpe.com/hpsd/nfvd/issues/12171
+12098,[UI] - Highlight duplicated nodes in task Gantt diagram,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12098
+12087,[RESEARCH] Improve DELETE /private/images/:imageId,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12087
+12072,VZ - ME lab - Discovery Process taking too long (SMS 5380639865) (5381268252),25/11/2025,https://github.hpe.com/hpsd/nfvd/issues/12072
+12033,[CICD] Install older kits in Vagrant,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12033
+12029,"[UI] - VNFP Management. Differentiate between CNF and VNF packages and disable ""Migrate"" for CNF packages",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12029
+12007,[UI] - Instantiate wizard: adapt API changes to improve performance,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12007
+12006,"Integrated tests for ""Instantiate"" wizard performance improvement",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12006
+12005,"Integrated tests in ""Create identifier"" wizard performance refactor",10/04/2024,https://github.hpe.com/hpsd/nfvd/issues/12005
+12004,"Integrated tests in ""Create VNF from VNFP"" modal",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12004
+12003,"[UI] - Adapt ""Create VNF from VNFP"" modal to use flavours and instantiation levels API",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12003
+12002,"[EPIC] Improve performance of ""Create a VNF from VNFP"" operation",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12002
+12001,[UI] - Create identifier wizard: adapt API changes to improve performance,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/12001
+11998,Improve performance in NFVD v2 model wizards,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11998
+11996,Modify GET connect API in v2 model instances to allow returning also not connected aggregators and internal VL,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11996
+11995, Create new APIs to get/set vim placement information at vnf and vdu compute levels in v2 model instances,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11995
+11967,[DOC] ETSI SOL003 Fail support ,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11967
+11966,E2E tests for ETSI SOL003 Fail support,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11966
+11965,UI- API Manual integration tests for ETSI SOL003 Fail support,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11965
+11964,New API to Fail a v2 model VNF LCM operation,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11964
+11954,"[EPIC] Improve performance for ""Instantiate"" wizard",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11954
+11953,"[EPIC] Improve performance for ""Create identifier"" wizard ",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11953
+11951,[UI] - Support for ETSI SOL003 Cancel operation,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11951
+11949,[UI] - Support for ETSI SOL003 Fail operation,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11949
+11947,[NFVD Model V2] ETSI SOL003 Cancel support,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11947
+11946,[NFVD Model V2] ETSI SOL003 Fail support,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11946
+11941,[UI] - Deploy CNF. Provide a way to apply customizations in several containers,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11941
+11897,Allow unknown fields missing in POJOs ,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11897
+11846,Project Pythovery,12/11/2025,https://github.hpe.com/hpsd/nfvd/issues/11846
+11813, Send response code 400 if wrong templateId is passed to the detach API,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11813
+11798,Use of Definitions Cache Phase III,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11798
+11787,Return empty list of images in GET /datacenters/:datacenterId/images,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11787
+11763,Cleanup monitors from UI,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11763
+11745,Support SECURITY_GROUP refresh operation for multi region Openstack,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11745
+11744,Support FLAVOR refresh operation for multi region Openstack,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11744
+11743,Support IMAGE refresh operation for multi region Openstack,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11743
+11741,Support NETWORK refresh operation for multi region Openstack,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11741
+11740,Support refresh operation for multi region Openstack,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11740
+11711,Improve E2E Suites finish time,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11711
+11705,Reduce excessive logging size,02/04/2025,https://github.hpe.com/hpsd/nfvd/issues/11705
+11683,[EPIC] Improve GET /datacenters/:datacenterId/images API request,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11683
+11673,[NFVD V2 Model] Validate and update queryVNF response parsing,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11673
+11672,[NFVD V2 Model] Have a package with multi flavours for e2e tests,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11672
+11670,As VDC User try migrate within same ORG with external-id same in trg vdc,28/02/2024,https://github.hpe.com/hpsd/nfvd/issues/11670
+11653,Delete documentation related to assurance sync and monitors,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11653
+11651,Update all the VNF Templates used in E2E Component Tests,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11651
+11648,[NFVD V2 Model] New e2e suite for KO scenario verification of change_flavour operation on VNF,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11648
+11647,[NFVD V2 Model] New wiremock mapping creation for change flavour operation,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11647
+11646,[NFVD V2 Model] New e2e suite for OK scenario verification of change_flavour operation on VNF,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11646
+11645,[NFVD V2 Model] Manual integration testing,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11645
+11644,[NFVD V2 Model] Processing of grant response for change vnf flavour,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11644
+11642,Clean-up assurance configuration from NFVD_CONFIGURATION table,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11642
+11641,"[UI] - Allow multiple imports in ""Import Package"" modal",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11641
+11633,"Remove monitor related artifacts, relationships and components",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11633
+11625,[NFVD V2 Model] Add documentation changes for 'Change Flavour' operation of VNF,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11625
+11619,[NFVD V2 Model] Support target_flavour query param in GET call of '/all-ip-addressing' FF-API for 'CHANGE_FLAVOUR' operation on VNF,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11619
+11618,[NFVD V2 Model] Support target_flavour query param in POST call of '/all-ip-addressing' FF-API for 'CHANGE_FLAVOUR' operation on VNF,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11618
+11616,[NFVD V2 Model] Support target_flavour query param in GET call of '/connect' FF-API for 'CHANGE_FLAVOUR' operation on VNF,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11616
+11615,[NFVD V2 Model] Support target_flavour query param in POST call of '/connect' FF-API for 'CHANGE_FLAVOUR' operation on VNF,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11615
+11613,[NFVD V2 Model] New endpoint to fetch all VNF flavours and their respective instantiation levels,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11613
+11612,[NFVD V2 Model] UI to provide option for triggering Change VNF Flavour operation,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11612
+11599,Personal hatred towards the word `container` ,21/02/2024,https://github.hpe.com/hpsd/nfvd/issues/11599
+11589,[RESEARCH] OrgUser execute NFVO Onboard VNF package does create job without domainName and OrgName,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11589
+11588,Upgrade NFVD to RedHat Linux 9.x ,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11588
+11568,[NFVD V2 Model] New VNF Statuses for 'CHANGE_FLAVOUR' operation on VNF,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11568
+11567,[NFVD V2 Model] New VNF Statuses for CHANGE_EXT_CONN,16/02/2024,https://github.hpe.com/hpsd/nfvd/issues/11567
+11566,[NFVD V2 Model] Lifecycle notifications for 'CHANGE_FLAVOUR' operation on VNF,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11566
+11565,[NFVD V2 Model] New FF-API for 'CHANGE_FLAVOUR' operation on VNF,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11565
+11563,"[DISCOVERY] In the AdoptVM, the Discovery Process is not getting the relationships with the Security Group",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11563
+11557,[VCENTER] AdoptVM is not working properly,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11557
+11519,Validate all of E2E tests suites with definitions cache for native Query changes,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11519
+11509,[UI] - Add a button to view job request / response parsed in a modal window,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/11509
+11470,Update Native Queries in RelationshipTemplateDbDao and VnfDetailsDbDao  to use NFVD Definitions Cache,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11470
+11469,Update Native Queries in InstanceDbDao to use NFVD Definitions Cache ,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11469
+11467,Update Native Queries in ArtifactTemplateDbDao to use NFVD Definitions Cache,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11467
+11466,Update Native Queries in ArtifactInstanceDbDao to use NFVD Definitions Cache,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11466
+11462,HA and GR file cleanup,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11462
+11426,[Research] - Investigate in Installer if `openldap` databases can be migrated from 7.x env. to RHEL 8.x environment.,12/11/2025,https://github.hpe.com/hpsd/nfvd/issues/11426
+11416,[NFV-D model New test cases for initial VNFM request failure in ETSI_VNFLifeCycle KO e2e suites,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11416
+11413,Release Notes - Compliance with QMS and Consistency in ORC,31/01/2024,https://github.hpe.com/hpsd/nfvd/issues/11413
+11408,Migration folder to reorganise,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11408
+11377,Add a new task for each resource deleted into the same jobId,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11377
+11373,Integration tests with FF and UI changes for Delete Orphan Resources improvement,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11373
+11372,Documentation and RNs related to Improve Delete Orphan Resources feature ,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11372
+11370,Add a new button in jobTracking to show the Audit table information when a k8s resource is deleted,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11370
+11368,Support EDB repo 2.0 for Vagrant setup for NFVD,25/01/2024,https://github.hpe.com/hpsd/nfvd/issues/11368
+11364,New API to get the audit information stored into NFVD_EVENTS_AUDIT table,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11364
+11361,Store more information about the resources deleted into NFVD_EVENTS_AUDIT table,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11361
+11360,Improve Delete arbitrary Kubernetes resources feature to give the possibility of group the resources,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11360
+11359,Improve API to GET resources from k8s adding an optional parameter to group the resources by type,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11359
+11357,[EPIC] Improving Delete Orphan Resources feature,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11357
+11345,Use attribute definitions cache in FindByPath operations,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11345
+11343,1b. Add `openstack-microservice.path` to `nfvd_configuration` table,25/03/2024,https://github.hpe.com/hpsd/nfvd/issues/11343
+11342,7d. Update NFVD e2e tests where OSPlugin is used,25/03/2024,https://github.hpe.com/hpsd/nfvd/issues/11342
+11341,7b. Update API integration test where OSPlugin is used,25/03/2024,https://github.hpe.com/hpsd/nfvd/issues/11341
+11340,5e. Update all components which uses OSPlugin,25/03/2024,https://github.hpe.com/hpsd/nfvd/issues/11340
+11339,3. Create new API in `nfvd-ff-openstack-microservice`,25/03/2024,https://github.hpe.com/hpsd/nfvd/issues/11339
+11322,Improve execution time in adopt vnf new ETSI test suite ,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11322
+11313,7e. Document changes related to `openstack-microservice`,25/03/2024,https://github.hpe.com/hpsd/nfvd/issues/11313
+11310,7c. Integration test of new `openstack-microservice`,27/03/2024,https://github.hpe.com/hpsd/nfvd/issues/11310
+11309,2. Add microservice configuration for new `openstack-microservice` in `https://github.hpe.com/hpsd/obt-configuration/tree/NFVD_configuration`,25/03/2024,https://github.hpe.com/hpsd/nfvd/issues/11309
+11308,5a. API changes to call new `openstack-microservice`,25/03/2024,https://github.hpe.com/hpsd/nfvd/issues/11308
+11307,5c. Workflow changes to call new `openstack-microservice` instead of `openstack-plugin`,25/03/2024,https://github.hpe.com/hpsd/nfvd/issues/11307
+11306,7a. Cloud changes to accommodate new `openstack-microservice`,01/07/2024,https://github.hpe.com/hpsd/nfvd/issues/11306
+11304,5b. CICD changes to build `openstack-microservice` and `openstack-microservice-client` as part of NFVD kit generation,25/03/2024,https://github.hpe.com/hpsd/nfvd/issues/11304
+11303,6. Installer should install new `openstack-microservice`,25/06/2024,https://github.hpe.com/hpsd/nfvd/issues/11303
+11302,5d. Update `nfv-director.sh` to start/stop/status new `openstack-microservice`,25/03/2024,https://github.hpe.com/hpsd/nfvd/issues/11302
+11300,4. Create new `nfvd-ff-openstack-microservice-client`,25/03/2024,https://github.hpe.com/hpsd/nfvd/issues/11300
+11299,1a. Create new microservice `nfvd-ff-openstack-microservice`,25/03/2024,https://github.hpe.com/hpsd/nfvd/issues/11299
+11288,[NFVD Installer]: Ansible Installer Improvement Ideas,17/01/2024,https://github.hpe.com/hpsd/nfvd/issues/11288
+11283,Non homogeneous branch names,16/01/2024,https://github.hpe.com/hpsd/nfvd/issues/11283
+11278,Recover CNF Snapshot refactor,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11278
+11270,Enable HTTPS API documentation,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11270
+11265,Include VOMP in new etsi E2E suite,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11265
+11239,Replace Openstack plugin with new microservice,04/12/2024,https://github.hpe.com/hpsd/nfvd/issues/11239
+11232,Support Pre&Post policies for ChangeCNF Package API,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11232
+11230,Improving the quality of error messages,18/01/2024,https://github.hpe.com/hpsd/nfvd/issues/11230
+11220,Create new API to get VIM placement at VDU level in v2 model instances,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11220
+11219,Create new API to get VIM placement at VNF level in v2 model instances,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11219
+11218,Create missing APIs for v2 model instances to get vnf configuration,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11218
+11201,Clean images created in ETSI_VNFLifeCycleAdoptVNF e2e suite when it finishes running,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11201
+11186,Allow copy jobid in tasks,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11186
+11185,[RESEARCH] Api call /domains/uuid/organizations/uuid/datacenters/resources,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11185
+11159,Design how to implement secure communications between all NFVD services,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11159
+11153,[UI] - Add option to modify a restriction field,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11153
+11152,"[UI] Consider ""Download parameters"" directly to browser",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11152
+11151,[UI] Improvements in CNF Apply Changes,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11151
+11150,[UI] Improvements in Change External Connectivity,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11150
+11147,[RESEARCH] UI Angular migration roadmap,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11147
+11145,[RESEARCH] Deploy VNF slowdown in VNFManager mode,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11145
+11140,[RESEARCH] Api call /nfvd-ext/domains/uuid/organizations/uuid/quota/usage taking a lot of time returning 404,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11140
+11136,[EPIC] Production Performance Observations of Long Running API Calls and DB Queries,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/11136
+11123,"Add new test case in the RateLimit.xml suite to handle unexpired token, newly generated token and super token",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11123
+11053,CNF E2E Test suite - aggressive-uninstall scenarios,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11053
+11033,Add new test suite for values.yaml support on CNF deployment API,12/12/2023,https://github.hpe.com/hpsd/nfvd/issues/11033
+11012,Support required capabilities needed on HAL Telefonica (Embedded manager),09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/11012
+11009,Analysis of trivy vulnerabilities,15/03/2024,https://github.hpe.com/hpsd/nfvd/issues/11009
+11000,Track any defects which we provide as part of 616-PBx but not included in 617,06/12/2023,https://github.hpe.com/hpsd/nfvd/issues/11000
+10954,New endpoint to get LAST_QUERY_INFORMATION for a given vnf instance,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10954
+10952,New testcase to handle empty release name in CNF charts,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10952
+10942,[RESEARCH] Check attributes to apply the always-hidden property to them,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10942
+10940,Improve method instanceManagement.createSubInstance,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10940
+10904,Project ChiquiMETRICS :  Yes we HARRRRLLLLL! ,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10904
+10847,NFV-D 2024 : major topics,17/11/2023,https://github.hpe.com/hpsd/nfvd/issues/10847
+10845,[NFVD][6.1.5 PB2] Enhance the current logging (5377759305),09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10845
+10800,"Discovery job to be marked as failed on any exception from Openstack, in addition to making discovery process stage failed",08/03/2024,https://github.hpe.com/hpsd/nfvd/issues/10800
+10792,New CNFLifeCycle e2e test cases to validate special CNF instance deletion cases ,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10792
+10787,Support PostPre processing policies in Change CNF Package operation,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10787
+10780,Test Pre and Post Policies for Change CNF Package,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10780
+10750,[RESEARCH] The relationship-list is empty for the endpoints,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10750
+10738,Onboard API to consider permanent token,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10738
+10722,Save Deploy CNF and Change CNF Package non-TLD mode errors in OUTPUT.Deployment_Result and Test_Output,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10722
+10679,Add pagination support for endpoint /nfvd/instance/artifact/query/path?id=<?>&expression=<?>,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10679
+10678,Add pagination support for FF APIs,31/10/2023,https://github.hpe.com/hpsd/nfvd/issues/10678
+10664,"Update NFVD documentation to reflect latest architectural changes (AA removed, LM A/A, callbacks, etc.)",17/11/2025,https://github.hpe.com/hpsd/nfvd/issues/10664
+10652,Add a new E2E test to test downloading a package from marketplace via oauth simulator and then delete it,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10652
+10635,NotificationTimerImpl reuse token,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10635
+10598,E2E Suite New ETSI to include test case for Shared Network,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10598
+10591,History CNF on demand refactor,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10591
+10582,Issues to be considered as a HF on top of 616-PB1 or as part of 616-PB2 or other alternatives?,24/11/2023,https://github.hpe.com/hpsd/nfvd/issues/10582
+10574,[RESEARCH] NFVD Upgrade Export SQL statements permission denied error,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10574
+10568,Refreshing local cache of configuration key value through event and to eliminate timers job,18/10/2023,https://github.hpe.com/hpsd/nfvd/issues/10568
+10557,E2E classic etsi suite failure on a VM where either kafka or pulsar is installed,12/10/2023,https://github.hpe.com/hpsd/nfvd/issues/10557
+10551,Issues on top of 6.1.5 PB2,29/11/2023,https://github.hpe.com/hpsd/nfvd/issues/10551
+10549,Redesign notifications for Change CNF Package,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10549
+10541,[UI] - Provide manage requests as an administration menu,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10541
+10539,Image upload is not possible in NFVD,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10539
+10532,[RESEARCH] Empty timestamps in nfvd_vnfm_sync_job,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10532
+10530,NFVD 6.1.5 - Modify VNF API call is not supporting VIM Connection Info attribute. (5374689582),06/11/2023,https://github.hpe.com/hpsd/nfvd/issues/10530
+10525,[RESEARCH] Import TOSCA  microservices is not started up due to the PID file missing ,31/10/2023,https://github.hpe.com/hpsd/nfvd/issues/10525
+10514,VNF/CNF Adoption ->  Kafka/Pulsar Notification,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10514
+10492,"Validation of Control of scripts (sql,sh,py) executions",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10492
+10487,[UI] - Enhance coverage of unit tests (server side),04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/10487
+10484,[Test]: [EPIC] UI E2E component testing,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/10484
+10472,Fix NFVD E2E packages to pass Puccinni validations,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10472
+10469,[RESEARCH] Send notification to UI when the system disables ratelimit due to filebroker unavailibility,03/10/2023,https://github.hpe.com/hpsd/nfvd/issues/10469
+10445,[SECURITY] Define necessary users with least privilege permissions for NFVD,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10445
+10444,[SECURITY] Security document issues,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/10444
+10440,[EPIC] ISSU Ongoing Improvements,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10440
+10430,[RESEARCH] Option for Installer to execute POST scripts shellscripts/jars after successful installation/upgrade,28/09/2023,https://github.hpe.com/hpsd/nfvd/issues/10430
+10399,[EPIC] Migrate NFV-D UI to latest Angular,18/06/2024,https://github.hpe.com/hpsd/nfvd/issues/10399
+10398,Is it possible to avoid use of root to run jboss? (5376542673),07/12/2023,https://github.hpe.com/hpsd/nfvd/issues/10398
+10358,Test suite stabilization,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10358
+10356,[EPIC] CICD Improvements,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10356
+10355,"Control of scripts (sql,sh,py) executions v2",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10355
+10354,Project A41 - Phase III (User Interface) - UI to comply with existing Org/VDC/VNFG + discovery API ,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10354
+10308,Specify VNFM Authentication at the VNF level,20/09/2023,https://github.hpe.com/hpsd/nfvd/issues/10308
+10304,Deprecate --recreate-pods in CNF management,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10304
+10287,[RESEARCH] - Identify which endpoints are retrieving much more info than required,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10287
+10284,"Project ""Less is More"" or How I Learned to Stop Worrying and Love the FF API",13/03/2024,https://github.hpe.com/hpsd/nfvd/issues/10284
+10270,"Rate limit - new pipeline in jenkins to run (weekly) all suites (say. new etsi, etsi, vnf, cnf ) with rate limit enabled",28/03/2025,https://github.hpe.com/hpsd/nfvd/issues/10270
+10266,[RESEARCH] - Offer a way to enhance the jobs list for parent and child jobs,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10266
+10263,Migration script to update the isOauth flag,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10263
+10262,Update documentation to include permanent token,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10262
+10260,Nortbound callbacks for Dry&Run,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10260
+10256,[RESEARCH] FF API not respond after a timeout when request to VNFM [SYNC],09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10256
+10249,[RESEARCH] Errors when importing large VNF packages,10/05/2024,https://github.hpe.com/hpsd/nfvd/issues/10249
+10202,E2E Suite modification for NEW ESTI Test suite.,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10202
+10197,E2E Suite modification for CNF Test Suite,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10197
+10187,[CICD] - [UI] - New pipeline with groovy file tracked in repository,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10187
+10169,[RESEARCH]Ratelimit - All the queued messages should be processed when ratelimit is switched from enable to disable,06/08/2024,https://github.hpe.com/hpsd/nfvd/issues/10169
+10160,Update RollbackETSIJobWithDeletionTestCase to avoid timeouts.,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10160
+10139,"NFVD_IDM_WHITE_LIST is removed in NFVD 6.1.6 PB1 version, remove this table in next major version upgrade",30/08/2023,https://github.hpe.com/hpsd/nfvd/issues/10139
+10121,Review DryRun CNF documentation for refactoring,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10121
+10120,Check DryRun CNF test suite refactor,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10120
+10119,New microservice endpoint for Dry&Run CNF,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10119
+10118,Callback API for Dry&Run CNF operation,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10118
+10117,Dry&Run CNF API refactor,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10117
+10116,Dry&Run CNF refactor,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10116
+10109,Align pythonneflix library with SDC.D for vcenter-microservice,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10109
+10101,Update Ratelimit config automatically,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10101
+10073,[ISSU] Delete the FF Pacemaker cluster when `nfvd_active_active_lm` is true,10/08/2023,https://github.hpe.com/hpsd/nfvd/issues/10073
+10053,UI - Enhance look and feel for package info and policies,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10053
+10047,Perform Refactoring of `edit_ui_pool.sh` and `edit_comic_pool.sh`,12/07/2024,https://github.hpe.com/hpsd/nfvd/issues/10047
+10044,Regenerate CNF or Chart refactor,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10044
+10034,Review keeping all history of CNF operation outputs and test results,03/08/2023,https://github.hpe.com/hpsd/nfvd/issues/10034
+10023,Rollout Restart refactor,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10023
+10001,Remove pending fixed paths and use filebroker URL ,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/10001
+9992,Create a migration script to delete all orphans VNF Components and containers,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9992
+9989,[Sorpresas] Use the new attribute 'possible_azs' when affinity or antiaffinity apply,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9989
+9984,Sorpesas least-used AZ first when allocating VDU instances with no policies,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9984
+9979,"UI - Jobs management: Allow to ""Expand all"" and ""Collapse all"" tasks tree",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9979
+9968,Assign new package/template to active instances (5374909753),25/07/2023,https://github.hpe.com/hpsd/nfvd/issues/9968
+9966,Return error in all operation different to abandon vnf for v1 model instances in status MIGRATED_V2_MODEL,01/08/2023,https://github.hpe.com/hpsd/nfvd/issues/9966
+9922,Completely honoring nfvdAllowedPlacement information in SORPRESAS,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9922
+9920,Check Deploy CNF Test Suite,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9920
+9913,Manual integration test of permanent token input ,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9913
+9908,Create new test cases for Jobtracking searching and filtering by column fields for new ETSI e2e in current test cases OK and KO as well as in Classic ETSI,11/07/2023,https://github.hpe.com/hpsd/nfvd/issues/9908
+9901,UI - Allow Create & Deploy for VDC,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9901
+9900,Including 'PermanentToken' in the Update Authentication at namespace level wizard,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9900
+9899,Including 'PermanentToken' in the Update Authentication at datacenter level wizard,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9899
+9898,CNF test suite for  permanent token,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9898
+9897,Update authentication at namespace level to consider isPermanentToken,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9897
+9896,Update authentication at datacenter level to consider isPermanentToken,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9896
+9886,Support Retry-After header in response for code 429,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9886
+9864,New API endpoints to add lock and remove lock in runtime configuration table,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9864
+9850,Documentation changes for improvements on GR installation in an Non ISSU usecase,18/10/2023,https://github.hpe.com/hpsd/nfvd/issues/9850
+9841,"UI - Correct alignment and format of ""Skip auto restore points creation""",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9841
+9840,UI - Correct grey background in IP addressing modals,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9840
+9820,E2E test suite to cover workflow ATTACH_VOLUME_HELION and CREATE_VOLUME_HELION,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9820
+9811,Handle status polling of external resources via single external task,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9811
+9784,Remove Internal Blocking Waits,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9784
+9783,NorthBound NFVD Callbacks,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9783
+9782,Kubernete Entity-Relationship model,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9782
+9781,Long Size values,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9781
+9780,TLDs metaworkflows,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9780
+9779,Catalog caching and use of it,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9779
+9777,Embedded Manager TLDs,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9777
+9776,VNF Queries refactor in ETSI v2,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9776
+9775,All CNF Operations refactor,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9775
+9772,Validate NFVD ISSU Fresh installation without AM,05/07/2023,https://github.hpe.com/hpsd/nfvd/issues/9772
+9769,Validate NFVD ISSU Fresh installation with 1.0.9 version AM.,05/07/2023,https://github.hpe.com/hpsd/nfvd/issues/9769
+9767,EPIC : ISSU - Phase IV - Automated Process,20/11/2023,https://github.hpe.com/hpsd/nfvd/issues/9767
+9766,[RESEARCH] Identify and Validate NFVD installer's pacemaker cluster negative usecases,28/09/2023,https://github.hpe.com/hpsd/nfvd/issues/9766
+9765,EPIC - Improvements on GR installation in an Non ISSU usecase,28/02/2024,https://github.hpe.com/hpsd/nfvd/issues/9765
+9764,Validate the GR upgrade from the previous version to the current version.,04/10/2023,https://github.hpe.com/hpsd/nfvd/issues/9764
+9763,Validate the GR installation of the current version.,04/10/2023,https://github.hpe.com/hpsd/nfvd/issues/9763
+9759,`nfvd_db_install.yml` playbook must be restricted to execute only from a node which belongs to GR Primary site,04/10/2023,https://github.hpe.com/hpsd/nfvd/issues/9759
+9758,Review site by site upgrade feature for the GR installer with host-specific aliases in the inventory.yml,28/09/2023,https://github.hpe.com/hpsd/nfvd/issues/9758
+9757,Review site by site fresh installation feature for the GR installer with host-specific aliases in the inventory.yml,28/09/2023,https://github.hpe.com/hpsd/nfvd/issues/9757
+9686,[RESEARCH] Improve POST /grants (vnf) API performance,23/06/2023,https://github.hpe.com/hpsd/nfvd/issues/9686
+9656,Translate exception messages triggered by hpsa-ep,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9656
+9633,Any ETSI SOL003 request without a Version header will be rejected in future NFVD versions,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9633
+9614,Paginate GET public/images API,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9614
+9602,Project A41 - Phase I  (Only API) - Org/VDC/VNFG creation plus discovery,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9602
+9586,La bohème - Phase III - One endpoint to rule them all ,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9586
+9570,Review components with different restriction values for the same artifact,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9570
+9550,Independent versioning of configuration parameters in table `nfvd_configuration` for custom plugins,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9550
+9545,Include PackageId in the table in VNF Package Management view,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9545
+9525,Modify all the TLDs and WFs to remove all the monitor related tasks,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9525
+9479,Extra check during upload of JSON parameter file so only files with matching identifiers are accepted,29/08/2023,https://github.hpe.com/hpsd/nfvd/issues/9479
+9464,"Inefficient SOSA operation lookup issuing many DB queries, all of them useless but one",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9464
+9457,Join back HPSA and FF-API (on hold),08/04/2025,https://github.hpe.com/hpsd/nfvd/issues/9457
+9450,Long Term Optimization Task Force,01/12/2025,https://github.hpe.com/hpsd/nfvd/issues/9450
+9448,[RESEARCH] Optimize dumping children of a VNF group triggered by SVC-Marketplace user,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9448
+9428,Update user guides with more details for various operations,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9428
+9427,[EPIC] Missing workflow scenarios from e2e suites tests,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9427
+9413,Use redis to manage session on UI for HA,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9413
+9375,Cleanup monitoring and Assurance related code from ff-api,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9375
+9373,Remove and AssuranceSynchronizationTimer,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9373
+9371,Remove Assurance specific definitions for Artifacts and Relationships,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9371
+9369,[EPIC] Cleanup of Assurance related code from fulfillment,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9369
+9345,UI - Improvements in jobs management,31/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9345
+9327,Enable to Delete VNFM when unsubscribe does not work (5372495620),09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9327
+9326,[RESEARCH] Reduce DB load due to CNF upgrades (TLD+WF),19/04/2023,https://github.hpe.com/hpsd/nfvd/issues/9326
+9325,Enable to undeploy a VirtualLink when not having a network under the VL,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9325
+9320,Drop installation and configuration of `xinetd` daemon and `HC` scripts,12/11/2025,https://github.hpe.com/hpsd/nfvd/issues/9320
+9315,Configure list of attributes to sent LCM Notifications when updated,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9315
+9293,Add VDUs with aff/antiaff policies for new ETSI e2e in current test cases OK and KO.,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9293
+9281,[MKS 1209014] undeploy virtual link from VDC not working altough there is success msg (5372570281),09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9281
+9252,Remove no longer required FB entries during CNF operations,28/02/2025,https://github.hpe.com/hpsd/nfvd/issues/9252
+9216,Delete deprecated components,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9216
+9215,VNFM Default mode needs to be deleted,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9215
+9169,Delete API operations not used and code associated,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9169
+9164,[EPIC] Delete code for deprecated Default mode,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9164
+9129,FF API response code for delete identifier needs to be changed to 204,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9129
+9127,Add external tasks to VCENTER calls,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9127
+9110,Test Suite - Rate Limit Load Based API test scenarios,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9110
+9065,[EPIC] Improve SQLUtility,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9065
+9041,Migration script to normalize all the packages already imported where the image is empty,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9041
+9029,[RESEARCH] VNF PATCH and PUT additionalParams not working with supertoken,21/03/2023,https://github.hpe.com/hpsd/nfvd/issues/9029
+9014,[RESEARCH] HPSA classes used by NFVD,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9014
+9013,Failsafe to protect against failure in Overload Protection KPI retrieval,04/05/2023,https://github.hpe.com/hpsd/nfvd/issues/9013
+9009,Provide ProblemDetails when a grant is rejected,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9009
+9000,Wiremok simulator answers incorrectly to subscriptions,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/9000
+8999,NFVD sends invalid subscription requests,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8999
+8998,Honor proxy configuration in NFVD,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8998
+8997,Defects and enhancements found by VOMP,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8997
+8982,Update the sizing guide for VM based deployments,21/08/2023,https://github.hpe.com/hpsd/nfvd/issues/8982
+8956,Support for VnfPackageChangeNotification when package state changed to ENABLED or DISABLED ,02/03/2023,https://github.hpe.com/hpsd/nfvd/issues/8956
+8934,Openstack plugin does not support the possibility to use higher OpenStack-API-Version headers for volume endpoint,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8934
+8933,"Compare TLDs (xml,database) using graph to generate UUIDs",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8933
+8926,[RESEARCH] Check VIM operations to include kafka notifications,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8926
+8909,Warn about invalid storageResourceIds in queryvnf responses,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8909
+8896,[Automatic Test Cases] Allow skipping of topology errors on Upgrade operations,17/03/2023,https://github.hpe.com/hpsd/nfvd/issues/8896
+8891,Missing resources in Openstack tenant/DC in NFVD,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8891
+8889,"[RESEARCH] Error ""..Unexpected content under /operations"" in KO Grant operations",24/02/2023,https://github.hpe.com/hpsd/nfvd/issues/8889
+8866,[Manual Integration test] Allow skipping of topology errors on Upgrade operations,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8866
+8858,WF changes for Apply changes fail as it can not ignore the topology errors,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8858
+8857,Update Skip_Topology_Error attribute value in the container,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8857
+8856,Support Skip_Topology_Error attribute inside Container Info from UI,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8856
+8855,Add Skip_Topology_Error and Num_Retry_Topology as part of CONTAINER artifact,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8855
+8854,Allow skipping of topology errors on Upgrade operations,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8854
+8843,VNFM / VIM / NFV-D ERROR - error message to simplify troubleshooting,04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/8843
+8805,Warn about unknown vimconnectioninfos in queryvnf responses,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8805
+8787,Reviewing ELK configuration,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8787
+8775,EPIC : ISSU - Phase III - Remaining features & tests,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8775
+8772,[ELK] Refining functionality part 3,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8772
+8758,[EPIC] [NFV-D Error Messages] Improving NFV-D Exception Management,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8758
+8753,NFVD DB Analysis looking for useless and inconsistent data,18/12/2023,https://github.hpe.com/hpsd/nfvd/issues/8753
+8752,Ramifications of using Hazelcast,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8752
+8748,Provide mechanism to pass additional parameter to `nfvd-ff-api.sh`,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8748
+8746,"[EPIC] Improve execution of scripts (sql,python,sh) in upgrade process",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8746
+8745,Create API endpoint to GET CNF containers attributes using vnfdid,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8745
+8717,Add partial support for fields in Sol003 Doc,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8717
+8713,Ensure script compliance with LSB return codes for start/stop/status,09/02/2023,https://github.hpe.com/hpsd/nfvd/issues/8713
+8704,"[RESEARCH] `NoClassDefFoundError` on pipeline runs, intermittent errors",03/02/2023,https://github.hpe.com/hpsd/nfvd/issues/8704
+8672,Modify nfvd-ff-api.sh to pass parameters ,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8672
+8670,Avoid updating the database in FF API start process,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8670
+8669,New parameter for FF API no.database.catalog.update,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8669
+8667,Improve start/stop tools for FF API,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8667
+8666,Add vnfdid in ChangeCNFPackage view,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8666
+8665,Add vnfdid in helm_values API call,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8665
+8664,Add vnfdid in compatible_templates API call,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8664
+8662,Use vnfdid in ChangeCNFPackage,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8662
+8653,[RESEARCH] Handle NullPointerException when attribute value is used for Oracle DB,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8653
+8642,Security Design Document for NFV-D,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8642
+8640,Start/stop microservices in parallel to improve the time in nfv-director.sh,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8640
+8614,[RESEARCH] Assess impact of rearranging Openstack AZs in NFVD logic (5370210608),09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8614
+8601,Data growth for the VZ Database Dump,08/09/2025,https://github.hpe.com/hpsd/nfvd/issues/8601
+8599,Document ETSI support limitations regarding Floating IPs and VIPs,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8599
+8595,[RESEARCH] Delete Package - Manual Steps when it can't be deleted in UI ,10/01/2023,https://github.hpe.com/hpsd/nfvd/issues/8595
+8593,Run npm audit on the code,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8593
+8554,[RESEARCH] Review scripts that manage NFVD services,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8554
+8547,Remove BCK Tables created due to Issue 3411 ONLY for Oracle,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8547
+8488,Deprecate projectId in Grant Response accessInfo,14/12/2022,https://github.hpe.com/hpsd/nfvd/issues/8488
+8486,Abstract : redesign configuration service for performance optimization,19/01/2023,https://github.hpe.com/hpsd/nfvd/issues/8486
+8457,Enhanced troubleshooting guide,31/03/2023,https://github.hpe.com/hpsd/nfvd/issues/8457
+8410,Project NGINX : Next Generation of Integration testiNg X,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8410
+8376,Converting diagrams into PlantUML format in NFVD documents,13/01/2023,https://github.hpe.com/hpsd/nfvd/issues/8376
+8372,[RESEARCH] Additional measures for ensuring Overload Protection is effective under high loads,24/11/2022,https://github.hpe.com/hpsd/nfvd/issues/8372
+8368,UI - Open VDCManager whenever only one VDC/VNFG,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8368
+8334,Analyze and Fix NFVD Security Vulnerabilities Reported by Dependency Track and VTN,02/12/2025,https://github.hpe.com/hpsd/nfvd/issues/8334
+8333,Design and POC : Rate Limiting - Create bucket for each User and associate user-bucket with user instead of default bucket,11/05/2023,https://github.hpe.com/hpsd/nfvd/issues/8333
+8332,Improve Scalability of Overload protection mechanism using Messaging Queues,22/11/2022,https://github.hpe.com/hpsd/nfvd/issues/8332
+8330,Unambigous description of domain fields in Openstack Authentication,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8330
+8326,Leverage FB checksum feature to compute VNF package checksums,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8326
+8318,Rate Limiting - Separately store/handle the default configurations & excludedurls and user defined configurations & excludedurls ,17/11/2022,https://github.hpe.com/hpsd/nfvd/issues/8318
+8314,First Innovation Days session (January 2023),09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8314
+8305,[EPIC] Improving NFV-D Error Messages,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8305
+8294,[NFVD Model v1] Document SOL003 Compatibility Matrix for ETSI,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8294
+8246,Add new token type in CNF Authentication and migrate older DCs,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8246
+8236,Analyze potential benefits of postgres cluster command,23/01/2023,https://github.hpe.com/hpsd/nfvd/issues/8236
+8234,NFVD SDN Contrail Port Mirroring Documentation,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8234
+8200,Project A41 (All for one) - Streamlined Onboarding Mechanism,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8200
+8189,Remove 'Mavenir' from the packages and E2E test mappings,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8189
+8181,Adopt Single chart operation doesn't supported if kubectl delete commands are executed in the kubernetes/openshift cluster,22/11/2023,https://github.hpe.com/hpsd/nfvd/issues/8181
+8158,Allow attaching  NFVD model v2 packages in Create VNF Group view,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8158
+8157,Support SOL003 4.x Instantiate targetScaleLevelInfo,24/10/2022,https://github.hpe.com/hpsd/nfvd/issues/8157
+8155,VNFM Authentication endpoint value not being set correctly during Grant response,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8155
+8145,Unify the paths of all the custom nodes that are used in the different workflows,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/8145
+8100,Review complex conditions in TLDs to improve performance,20/10/2022,https://github.hpe.com/hpsd/nfvd/issues/8100
+7979,Permit retries to get CNF topology,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/7979
+7946,Create Identifier wizard stepper doesn't work properly,03/10/2022,https://github.hpe.com/hpsd/nfvd/issues/7946
+7922,[EPIC] Pick up `Postgres` / `Patroni` HA / GR installer from Cybertec,20/11/2023,https://github.hpe.com/hpsd/nfvd/issues/7922
+7902,Review label and description of all attributes in Definitions,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/7902
+7899,Support ssh keys for NFVD Policies and ssh_port configuration,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/7899
+7893,GR support in NFVD: roadmap and tool endorsed for it,27/10/2022,https://github.hpe.com/hpsd/nfvd/issues/7893
+7891,Modify nfv-director.sh to show discovery controller as separate component with subservices,06/03/2023,https://github.hpe.com/hpsd/nfvd/issues/7891
+7883,Epic - UX UI Improvements ,22/02/2024,https://github.hpe.com/hpsd/nfvd/issues/7883
+7880,Document SOL003 Compatibility Matrix for ETSI 3.6.1 ,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/7880
+7835,Default values of discovery controller config file to set max and min to 0,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/7835
+7833,E2E Testcase to validate NFVD support for different way of passing user credentials in a kubeconfig file.,15/09/2022,https://github.hpe.com/hpsd/nfvd/issues/7833
+7832,Store the query VNF response from VNF Manager in filebroker instead of parsing and updating NFVD inventory,04/10/2022,https://github.hpe.com/hpsd/nfvd/issues/7832
+7825,Install new RPMs for discovery and start processes with new scripts,26/10/2022,https://github.hpe.com/hpsd/nfvd/issues/7825
+7824,Create script to start stop restart discovery standalone ms (previously done by controller),26/10/2022,https://github.hpe.com/hpsd/nfvd/issues/7824
+7822,Separate RPMs should be created for different discovery services,14/09/2022,https://github.hpe.com/hpsd/nfvd/issues/7822
+7804,Discovery architecture changes to be more accommodative with containers and virtual machine world,27/03/2025,https://github.hpe.com/hpsd/nfvd/issues/7804
+7747,Organization Drawer UI Enhancements to display VNF instances of a particular user,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/7747
+7736,"Return VNF instances, created from vnf template, with more VNF information in vnfDetails API response",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/7736
+7696,Support export vnf instances list to csv file,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/7696
+7609,NFVD model v2 support SOL003 v3.6.1,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/7609
+7591,SCM_SW:nfv-director.sh status is not showing ELK status (filebeat) (5366481032),03/10/2023,https://github.hpe.com/hpsd/nfvd/issues/7591
+7563,Add retries to e2e ValidateKafkaNotificationTestCase class,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/7563
+7560,Signature and Encryption check should be enabled in production of nfvd ui,07/09/2022,https://github.hpe.com/hpsd/nfvd/issues/7560
+7550,Junit restructure/redesign for New ETSI Grant,22/11/2022,https://github.hpe.com/hpsd/nfvd/issues/7550
+7539,[RESEARCH] Package Management - import and delete pkg operation error scenarios ,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/7539
+7500,NFVD API - Enable Single Sign On,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/7500
+7426,EPIC: Phase 2: V2/New ETSI Hooks,21/07/2022,https://github.hpe.com/hpsd/nfvd/issues/7426
+7415,Define fields for ConnectTimeout and SocketTimeout in the VNFM instance,17/07/2022,https://github.hpe.com/hpsd/nfvd/issues/7415
+7407,Need mask/encrypt  hpsaRestPassword parameter in nfvd_configuration GUI,13/07/2022,https://github.hpe.com/hpsd/nfvd/issues/7407
+7402,[RESEARCH] Error to re-import a VNF Package after the vdc user tried to delete it,11/07/2022,https://github.hpe.com/hpsd/nfvd/issues/7402
+7400,[RESEARCH] Send the details of the Org entries not found in LDAP during the invocation of the API /nfvd-ext/domains/6c41edd8-e06a-485f-9931-17224a15a165/submembers in the Response,11/07/2022,https://github.hpe.com/hpsd/nfvd/issues/7400
+7384,Vivo MANO - Remote access list,29/08/2022,https://github.hpe.com/hpsd/nfvd/issues/7384
+7305,NFVD Database model enhancement proposal,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/7305
+7283,[RESEARCH] Error in PostgreSQL when a number is compared with boolean,22/07/2022,https://github.hpe.com/hpsd/nfvd/issues/7283
+7282,[RESEARCH] Check how we can change the function com.hp.spain.nfvd.dao.db.InstanceDbDao#findById to avoid to reach the limit of number of parameters ,06/07/2022,https://github.hpe.com/hpsd/nfvd/issues/7282
+7229,[RESEARCH] Warning Message in HEAL Grant Job not seen for skipped resources,15/12/2022,https://github.hpe.com/hpsd/nfvd/issues/7229
+7228,Grant Resource is identified inside the VNF but with different Openstack UUID,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/7228
+7210,Managing ETSI compatibility tables in the NFVD documentation,14/12/2023,https://github.hpe.com/hpsd/nfvd/issues/7210
+7206,HCS modifications for VSOP Phase - 1 in production,20/11/2023,https://github.hpe.com/hpsd/nfvd/issues/7206
+7175,Review and enhancements for ISSU guide,27/07/2022,https://github.hpe.com/hpsd/nfvd/issues/7175
+7161,[E2E Component Tests] Modify Wiremock to ClassicEtsi Query after instantiate,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/7161
+7156,Fixes on top of 611,14/06/2022,https://github.hpe.com/hpsd/nfvd/issues/7156
+7152,ADMIN_SQL package for running SQL Code without DBLocks or Deadlocks,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/7152
+7067,Reduce sizing of Download Parameters,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/7067
+7041,Show nfvd model v1 vnfp's vnfd id attribute in vdc manager,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/7041
+6991,[RESEARCH] Improve queries in nfvd-ff-model\src\main\java\com\resources\SQLUtils.java,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/6991
+6987,[RESEARCH] Change default INFO.Amount values to empty for VIRTUAL CORE AND VIRTUAL MEMORY,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/6987
+6969,Project GRoG,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/6969
+6963,Add test case to check CP Aggregator does not retain existing connections,20/07/2022,https://github.hpe.com/hpsd/nfvd/issues/6963
+6958,CNF - support of Canary based In-Service Upgrade Strategy,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/6958
+6923,Reduce NFVD NSO ISO size - UI component ,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/6923
+6873,Add CNF validation in onboard package API for NFVD model v2,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/6873
+6802,Import CNF not supported in NFVD model v2,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/6802
+6725,UI slowness - Customer Feedback,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/6725
+6713,Bulk VM Adoption (VMWARE) ,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/6713
+6712,Bulk VMs Migrations Between Datacenters (vmware),09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/6712
+6711,"VM Migration from DataCenterA to DatacenterB, through the vCenter API (Cross vCenter Tool)",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/6711
+6702,Customer Commitment 2633 - TELEFONICA NFVD - Migration SBC,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/6702
+6662,Reshow job detailed tool/feature,14/06/2022,https://github.hpe.com/hpsd/nfvd/issues/6662
+6661,Execute custom operation in bulk,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/6661
+6654,Documentation pointing to unexisting log folders,14/02/2023,https://github.hpe.com/hpsd/nfvd/issues/6654
+6648,Schedule regular backups,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/6648
+6642,CleanVCenterEnvironmentTestCase is not deleting existing disks,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/6642
+6628,Support showing datacenter projects in vdc manager,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/6628
+6616,Investigate vcenter vsphere cross-datacente vmotion ( xVC-vMotion ),10/05/2022,https://github.hpe.com/hpsd/nfvd/issues/6616
+6607,Modify `NFVD` documentation to show passive components for `HA`/`GR` nodes appropriately,20/11/2023,https://github.hpe.com/hpsd/nfvd/issues/6607
+6598,Evaluate  HA-PROXY vs NGINX for loadbalancers,02/03/2022,https://github.hpe.com/hpsd/nfvd/issues/6598
+6596,Remove sensitive information from `nfvd.properties` files inside `nfvd.ear`,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/6596
+6579,Hide new_deployment_variables in UI,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/6579
+6568,[EPIC][E2E Tests] Capture Missing E2E tests,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/6568
+6542,[E2E COMPONENT TESTS] Improve how to create and use images in New ETSI tests,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/6542
+6527,Simplify NFVD user creation without Email authentication,27/09/2024,https://github.hpe.com/hpsd/nfvd/issues/6527
+6503,"Send LCM notifications for operations Change CNF Package Version, Regenerate Chart and CNF Rollout restart",15/02/2022,https://github.hpe.com/hpsd/nfvd/issues/6503
+6489,Autogenerate lists in ETSI compatibility documentation,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/6489
+6485,"If the customer has a VMware environment and is using SDS (Software Defined Storage) instead of GlusterFS, can NFVD work with that?",11/02/2022,https://github.hpe.com/hpsd/nfvd/issues/6485
+6463,Please study RH CEPH as a replacement for RH Gluster,17/02/2022,https://github.hpe.com/hpsd/nfvd/issues/6463
+6444,[RESEARCH] Offline python inventory,22/02/2022,https://github.hpe.com/hpsd/nfvd/issues/6444
+6399,Database migration to a different vendor in NFVD,19/04/2022,https://github.hpe.com/hpsd/nfvd/issues/6399
+6371,Restrict directories usage while generating vnf package,31/01/2022,https://github.hpe.com/hpsd/nfvd/issues/6371
+6366,Print time trace in the logs to make it easier to debug the performance,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/6366
+6356,Reduce NFVD NSO ISO size,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/6356
+6355,Security Group openstack ID to be inserted in input parameter file for NFVD,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/6355
+6350,Integration of FluentD,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/6350
+6282,604 Blocker issues update as of 12/01/2022,25/01/2022,https://github.hpe.com/hpsd/nfvd/issues/6282
+6189,Create Relationship between NETWORK and VPORT,26/10/2022,https://github.hpe.com/hpsd/nfvd/issues/6189
+6177,"NFVD does not support Get VNFD as a single file, this means if the ""Accept"" header contains only ""text/plain""",13/09/2023,https://github.hpe.com/hpsd/nfvd/issues/6177
+6176,VM may hang if combined memory size of all processes exceeds total RAM size,13/09/2023,https://github.hpe.com/hpsd/nfvd/issues/6176
+6167,[RESEARCH] New API request at VNFG level,17/12/2021,https://github.hpe.com/hpsd/nfvd/issues/6167
+6099,COMIC documentation embedded on NFV-D,14/02/2023,https://github.hpe.com/hpsd/nfvd/issues/6099
+6091,Rename configuration key etsi.v6.flag to nfvd.etsi.model.v2,26/10/2022,https://github.hpe.com/hpsd/nfvd/issues/6091
+6087,Create a new API for checking the images assigned to vm receiving a vm as input parameter,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/6087
+6071,EPIC : Overload Protection,03/04/2024,https://github.hpe.com/hpsd/nfvd/issues/6071
+6068,Improve WF_TS_CREATE_IMAGE_HELION for managing correctly the errors triggered by the script invocation,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/6068
+6053,VL template in NFVD for creating ipv6 VLs.,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/6053
+6052,Optimize TLD artifact evaluation,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/6052
+6012,Review leak of temporary files,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/6012
+6010,NFV-D doc in NFV-D app - Documentation embedded in NFV-D UI,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/6010
+5994,OpenLDAP installation and configuration to be part of NFVD,20/11/2023,https://github.hpe.com/hpsd/nfvd/issues/5994
+5945,[NEW_ETSI] Show a summary with the information of the VNF,26/10/2022,https://github.hpe.com/hpsd/nfvd/issues/5945
+5909,UI - support re-enable user from UI,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/5909
+5901,It does not support special characters inside VNF Packages names,19/05/2023,https://github.hpe.com/hpsd/nfvd/issues/5901
+5887,Allow user to resize the table column in the instances selector area of vdc manager,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/5887
+5859,Query VNF 331 parsing,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/5859
+5856,How long are grants kept?,28/10/2021,https://github.hpe.com/hpsd/nfvd/issues/5856
+5810,Stop creating NFS shared drives for UI,20/11/2023,https://github.hpe.com/hpsd/nfvd/issues/5810
+5749,ChangeExtConnectivity ClassicETSI Suite Failure Scenarios,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/5749
+5744,GPDR classified data in NFVD logs? ,20/10/2021,https://github.hpe.com/hpsd/nfvd/issues/5744
+5729,Remove all the deprecated API which starts with /nfvo/v0/vnf_packages from documentation,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/5729
+5705,[NEW_ETSI] Remove below list of configuration from NFVD Model SQL,08/10/2025,https://github.hpe.com/hpsd/nfvd/issues/5705
+5664,Fix security vulnerabilities in NFVD-FF,11/10/2021,https://github.hpe.com/hpsd/nfvd/issues/5664
+5649,[E2E COMPONENT TESTS] Improve the time dedicated in rollback CNF tests cases,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/5649
+5637,[DESIGN] Optimize core workflows implementing TLDs,20/10/2022,https://github.hpe.com/hpsd/nfvd/issues/5637
+5629,Introduce new nodes for existing GUI clusters,20/11/2023,https://github.hpe.com/hpsd/nfvd/issues/5629
+5628,Update HPSA to add new nodes as part of the scaling out,20/11/2023,https://github.hpe.com/hpsd/nfvd/issues/5628
+5627,Provide new nodes for existing COMIC clusters,20/11/2023,https://github.hpe.com/hpsd/nfvd/issues/5627
+5626,Introduce a new capability to add new nodes to existing AA pacemaker cluster,20/11/2023,https://github.hpe.com/hpsd/nfvd/issues/5626
+5625,Provide mechanism to add new nodes to existing FF pacemaker cluster,20/11/2023,https://github.hpe.com/hpsd/nfvd/issues/5625
+5624,Provide additional playbooks to recreate FF / AA pacemaker clusters,20/11/2023,https://github.hpe.com/hpsd/nfvd/issues/5624
+5617,Optimize image checking algorithm,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/5617
+5600,Availability to configure RETRY and ROLLBACK TLD for the NFVD  operations,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/5600
+5594,Expand or recreate NFVD clusters,20/11/2023,https://github.hpe.com/hpsd/nfvd/issues/5594
+5590,Indicate on job details if the task is internal to NFVD or external,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/5590
+5580,Support helm template command in container microservice,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/5580
+5579,Changes  in container microservice needed for Adapter Factory Helm Adapter,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/5579
+5574,"Agree on new NFV-D release cadence proposal, align and agree with delivery teams.",14/09/2021,https://github.hpe.com/hpsd/nfvd/issues/5574
+5571,Show time spent in HPSA queue in job tracking window,21/09/2021,https://github.hpe.com/hpsd/nfvd/issues/5571
+5558,[ETSI_SOL003] Heal VNF test E2E KO FAILED_TEMP-Rollback-ROLLING_BACK-ROLLED_BACK,08/06/2023,https://github.hpe.com/hpsd/nfvd/issues/5558
+5557,[ETSI_SOL003] Heal VNF test E2E KO FAILED_TEMP-Retry-COMPLETED,08/06/2023,https://github.hpe.com/hpsd/nfvd/issues/5557
+5541,NFVD Sizing and Perfomance plan,13/10/2021,https://github.hpe.com/hpsd/nfvd/issues/5541
+5530,[ETSI] On-boarding and query package information needs to be stored/queried in Filebroker,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/5530
+5529,[ETSI_SOL003] NFVD to VNFM Subscription for 3.3.1,08/10/2025,https://github.hpe.com/hpsd/nfvd/issues/5529
+5515,Change STATUS to LOCKED during a VLink deployment,15/09/2021,https://github.hpe.com/hpsd/nfvd/issues/5515
+5509,ChangeCurrentVNFPackage ClassicETSI Suite,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/5509
+5505,URL Encoding/Decoding needed when rest calls between NFVD and VNFM,11/10/2023,https://github.hpe.com/hpsd/nfvd/issues/5505
+5502,Include additional container validations in async Delete VNF instance operation,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/5502
+5472,Support --set and kubectl in container microservice,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/5472
+5460,EPIC to track NFVD performance activities across the milestone.,19/08/2021,https://github.hpe.com/hpsd/nfvd/issues/5460
+5452,Standardize microservices timestamp,31/08/2021,https://github.hpe.com/hpsd/nfvd/issues/5452
+5422,Optimize TLD lead time,28/09/2021,https://github.hpe.com/hpsd/nfvd/issues/5422
+5411,Time gap observed between transitioning of tasks within the TLD,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/5411
+5407,Implement case insensitive search in Job tracking search,30/11/2021,https://github.hpe.com/hpsd/nfvd/issues/5407
+5392,SubTLD is displayed in the UI as a single task in the parent TLD job ,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/5392
+5384,Tracking of status of  NFV-D/SDC.D/NSO/GVNFM CI/CD processes status and remediation actions for security breach in Grenoble ,09/08/2021,https://github.hpe.com/hpsd/nfvd/issues/5384
+5382,EPIC Support for ChangeExternalConnectivity operation in SOL003 interface,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/5382
+5374,Optimize iterating over all VNF or CNF instances during deleting a package,03/08/2021,https://github.hpe.com/hpsd/nfvd/issues/5374
+5360,Add delete VNF test case in ETSI_Classic test suite,13/06/2023,https://github.hpe.com/hpsd/nfvd/issues/5360
+5339,Ability to add Pre/Post processing policies to already deployed instances,14/02/2023,https://github.hpe.com/hpsd/nfvd/issues/5339
+5306,Support VNFM type + version concatenation to look for child workflow in ETSI tasks,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/5306
+5288,Connect operation dialog improvements,20/07/2021,https://github.hpe.com/hpsd/nfvd/issues/5288
+5287,Refresh the vdc manager partially to show the new created vnf instance,20/07/2021,https://github.hpe.com/hpsd/nfvd/issues/5287
+5286,Refactor classic vnf instance deployment dialog to improve user experience,20/07/2021,https://github.hpe.com/hpsd/nfvd/issues/5286
+5285,Import Shared Virtual Link improvement,20/07/2021,https://github.hpe.com/hpsd/nfvd/issues/5285
+5283,Don't allow dual stack network importing subnetwork from different openstack network,20/07/2021,https://github.hpe.com/hpsd/nfvd/issues/5283
+5254,Feasibility check on delivering enhacement request on 5.x from RND standpoint ,19/08/2021,https://github.hpe.com/hpsd/nfvd/issues/5254
+5251,[New ETSI] Test a complete terminate including query VNF with a big VNF in a big DC,08/06/2023,https://github.hpe.com/hpsd/nfvd/issues/5251
+5249,SQL Export Utility can potentially break with future changes!,03/11/2022,https://github.hpe.com/hpsd/nfvd/issues/5249
+5240,ChangeExternalConnectivity operation in SOL003 interface,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/5240
+5233,[New ETSI] Test a complete instantiate including query VNF with a big VNF in a big DC,08/06/2023,https://github.hpe.com/hpsd/nfvd/issues/5233
+5231,Creating a way to trace system communications,31/03/2023,https://github.hpe.com/hpsd/nfvd/issues/5231
+5192,Modify new etsi LCM notification names stored in job tracking,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/5192
+5174,Send VNF MODIFY_INFO request to VNFM when datacenter values are changed,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/5174
+5162,UI feedback from verizon delivery team,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/5162
+5159,[ETSI_SOL003] VNF Package Management interface 3.3.1,08/10/2025,https://github.hpe.com/hpsd/nfvd/issues/5159
+5158,[ETSI_SOL003] [epic] VNF Package Management interface 3.3.1,08/10/2025,https://github.hpe.com/hpsd/nfvd/issues/5158
+5155,Test endpoint when we have VNFP subscription,08/10/2025,https://github.hpe.com/hpsd/nfvd/issues/5155
+5139,Multiple NFV-D documentation versions support,14/02/2023,https://github.hpe.com/hpsd/nfvd/issues/5139
+5128,New ETSI support SOL003 v3.3.1 (partial),09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/5128
+5098,Verizon Database Upgrade Process Explanation,26/04/2022,https://github.hpe.com/hpsd/nfvd/issues/5098
+5059,New etsi demo 6.0.X,08/10/2025,https://github.hpe.com/hpsd/nfvd/issues/5059
+5029,Malformed grant from Mavenir VNFM request is not rejected and gets through,31/03/2023,https://github.hpe.com/hpsd/nfvd/issues/5029
+5019,Default task executed for Hooks in TLDs,14/06/2021,https://github.hpe.com/hpsd/nfvd/issues/5019
+5018,Consider deletion of non-existent resources in external system as successful ,14/02/2023,https://github.hpe.com/hpsd/nfvd/issues/5018
+5015,Improved FF API performance when there are not any sincronization,10/06/2021,https://github.hpe.com/hpsd/nfvd/issues/5015
+5010,Adjust NFV-D cloc script ... count seems way excessive...,10/06/2021,https://github.hpe.com/hpsd/nfvd/issues/5010
+4995,[EPIC] New view to display all VNFs for a particular user,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/4995
+4977,[ETSI_SOL003] Terminate VNF and Delete VNF Identifier error management with retry-after,08/10/2025,https://github.hpe.com/hpsd/nfvd/issues/4977
+4962,Research long asynchronous jobs,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/4962
+4949,Improve resource-pool API,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/4949
+4939,Improve API PUT /nfvd-ext/domains/{domainId}/organizations/{organizationId}/tenants/{tenantId}/children/childId/artifactId/categoryName/attributeName,30/11/2021,https://github.hpe.com/hpsd/nfvd/issues/4939
+4936,"CNFs on NS / CNFs on GVNFM - what, when, whom, who, which, where, why, whose and how",14/02/2023,https://github.hpe.com/hpsd/nfvd/issues/4936
+4932,Improve API GET|/nfvd-ext/domains/{domainId}/organizations/{organizationId}/tenants/{tenantId} performance,30/11/2021,https://github.hpe.com/hpsd/nfvd/issues/4932
+4931,Improve API GET|/nfvd/instance/artifact/query/children?relationship=ALLOCATED performance,30/11/2021,https://github.hpe.com/hpsd/nfvd/issues/4931
+4930,Improve API GET /nfvd/instance/artifact?family=VNF&category=GENERIC performance,30/11/2021,https://github.hpe.com/hpsd/nfvd/issues/4930
+4927,CTG licensing enforcement & recommendations,14/02/2023,https://github.hpe.com/hpsd/nfvd/issues/4927
+4887,Intermittent error uploading zip in SOL005,08/06/2023,https://github.hpe.com/hpsd/nfvd/issues/4887
+4870,Modify API to create artifacts in parallel,23/06/2021,https://github.hpe.com/hpsd/nfvd/issues/4870
+4869,Avoid trigger discovery if is already discovered,08/06/2023,https://github.hpe.com/hpsd/nfvd/issues/4869
+4859,ArtifactInstanceExtended modifications for multiples inserts,23/06/2021,https://github.hpe.com/hpsd/nfvd/issues/4859
+4854,Improving Performance for Resource Allocation,22/02/2022,https://github.hpe.com/hpsd/nfvd/issues/4854
+4839,Replace Values support for Encrypted Files,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/4839
+4834,Activate VCR by configuration to allow debugging of vcenter microservice traffic,12/05/2021,https://github.hpe.com/hpsd/nfvd/issues/4834
+4809,UI - Vcenter discovery refresh for Datastore and Datastore cluster,06/03/2023,https://github.hpe.com/hpsd/nfvd/issues/4809
+4808,UI - Vcenter discovery refresh for Host and Host cluster,06/03/2023,https://github.hpe.com/hpsd/nfvd/issues/4808
+4805,UI - Vcenter discovery refresh for DVPort/DVPortGroup/PortGroups,06/03/2023,https://github.hpe.com/hpsd/nfvd/issues/4805
+4759,Migrate FF to Velocity 2.0,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/4759
+4753,Stop E2E execution when Base suite fails and avoid running DeleteBase if any other suite fails,29/07/2022,https://github.hpe.com/hpsd/nfvd/issues/4753
+4743,Review FF Automation tests,30/11/2021,https://github.hpe.com/hpsd/nfvd/issues/4743
+4692,Delete Definitions/Components values in Database which are not present in XMLs,27/04/2021,https://github.hpe.com/hpsd/nfvd/issues/4692
+4674,[ETSI_SOL003] ETSI Query Instantiate VNF test E2E KO,08/10/2025,https://github.hpe.com/hpsd/nfvd/issues/4674
+4641,Show jobs in UI job tab that came from /nfvo API,04/05/2021,https://github.hpe.com/hpsd/nfvd/issues/4641
+4628,"GUI code quality, refactoring, coverage, security and sonar improvements",04/11/2025,https://github.hpe.com/hpsd/nfvd/issues/4628
+4620,Get Operation Status,08/10/2025,https://github.hpe.com/hpsd/nfvd/issues/4620
+4617,[ETSI_SOL003] ETSI Heal VNF,08/06/2023,https://github.hpe.com/hpsd/nfvd/issues/4617
+4615,[ETSI_SOL003] Change Flavour VNF,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/4615
+4609,[ETSI_SOL003] Modify VNF Information,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/4609
+4607,[ETSI_SOL003] Prepare VNF,08/10/2025,https://github.hpe.com/hpsd/nfvd/issues/4607
+4596,Allow debugging of vcenter microservice traffic,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/4596
+4595,Configure API Integration Tests for using docker nightly images for PPAS and ORACLE,09/06/2021,https://github.hpe.com/hpsd/nfvd/issues/4595
+4594,Verizon related images in HA Guide,16/04/2021,https://github.hpe.com/hpsd/nfvd/issues/4594
+4592,Vcenter VM deployment: Epilogue is not mandatory,24/02/2023,https://github.hpe.com/hpsd/nfvd/issues/4592
+4590,NFVD ELK Support 3/3,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/4590
+4583,Support nfvd ui and sd ui sharing the same UOC,20/07/2023,https://github.hpe.com/hpsd/nfvd/issues/4583
+4579,Database cleanup : indexes with nullable columns,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/4579
+4578,DB Cleanup: Fix findings from schemacrawler lint,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/4578
+4547,Re-run automated component tests on develop of 6.0.3,14/04/2021,https://github.hpe.com/hpsd/nfvd/issues/4547
+4545,"Rename ""SCOPE"" Database columns, as this is a reserved word",09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/4545
+4530,Set some ETSI attributes mandatory in API VNF template create/update,13/04/2021,https://github.hpe.com/hpsd/nfvd/issues/4530
+4524,Improve performances delete tree cascade - AA synchronization.,30/11/2021,https://github.hpe.com/hpsd/nfvd/issues/4524
+4504,TestComponent pipeline doesn't execut DeleteBase suite if previous fail,08/06/2023,https://github.hpe.com/hpsd/nfvd/issues/4504
+4496,Improve Automated Testing,18/05/2021,https://github.hpe.com/hpsd/nfvd/issues/4496
+4484,NFVD Installation and configuration Guide - tracking TW review process,20/10/2021,https://github.hpe.com/hpsd/nfvd/issues/4484
+4483,NFVD Administration Guide - tracking TW review process,15/02/2023,https://github.hpe.com/hpsd/nfvd/issues/4483
+4479,Having the same behavior of VDC and VNFG on failure creation,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/4479
+4474,VNF_Manager form under Virtual Network,14/02/2023,https://github.hpe.com/hpsd/nfvd/issues/4474
+4453,Undeploy VM in reverse order as in the deploy,18/05/2021,https://github.hpe.com/hpsd/nfvd/issues/4453
+4448,When a user tries to delete a template that has an instance return a warning message,28/03/2022,https://github.hpe.com/hpsd/nfvd/issues/4448
+4446,VNFLifeCycle Suite - Undeploy error cases,20/04/2021,https://github.hpe.com/hpsd/nfvd/issues/4446
+4437,NFVD User Guide - tracking TW review process,31/03/2021,https://github.hpe.com/hpsd/nfvd/issues/4437
+4436,NFVD documentation - tracking TW review process,22/06/2023,https://github.hpe.com/hpsd/nfvd/issues/4436
+4429,[EPIC] Partial support of ChangeCurrentVNFPackage for Verizon,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/4429
+4418,NFVD LCM notificatin is sending VnfIdentifierCreationNotification for 2 diferent things,13/03/2023,https://github.hpe.com/hpsd/nfvd/issues/4418
+4414,Create an NFVD docker DB with Verizon data,16/12/2021,https://github.hpe.com/hpsd/nfvd/issues/4414
+4407,Resolve pending TW comments for 6.0.2,25/06/2021,https://github.hpe.com/hpsd/nfvd/issues/4407
+4404,"Support ""repeat"" function in SGRs in imported Heat templates",14/02/2023,https://github.hpe.com/hpsd/nfvd/issues/4404
+4396,Add new method in an LDAP-Connector class in order to obtain the properties of a LDAP susbsystem/connection declared in the standalone.xml file.,14/02/2023,https://github.hpe.com/hpsd/nfvd/issues/4396
+4395,Improve volume attachment in deploy VNF TLD,14/02/2023,https://github.hpe.com/hpsd/nfvd/issues/4395
+4394,Additional parameter files removed from FS prevent successful termination of VNFs,14/02/2023,https://github.hpe.com/hpsd/nfvd/issues/4394
+4392,Give a consistent view of when a job has really finished in NFVD,14/02/2023,https://github.hpe.com/hpsd/nfvd/issues/4392
+4391,ExecutionTaskDbDaoTest and NotificationDbDaoTest are not working,27/04/2021,https://github.hpe.com/hpsd/nfvd/issues/4391
+4390,Disable some tasks in the TLDs via configuration in DB,14/02/2023,https://github.hpe.com/hpsd/nfvd/issues/4390
+4387,Initiative to enhance NFVD performance,07/02/2022,https://github.hpe.com/hpsd/nfvd/issues/4387
+4385,Allow to identify it based on Subject fields of a TLS certificate when creating user,25/03/2021,https://github.hpe.com/hpsd/nfvd/issues/4385
+4384,Allow user to upload a client certificate and private key when register vnfm,26/10/2022,https://github.hpe.com/hpsd/nfvd/issues/4384
+4383,Improve openStack CLEAN-UP-VIM pipeline and clean_up_osVIM.sh script,05/07/2021,https://github.hpe.com/hpsd/nfvd/issues/4383
+4380,Remove duplicate openstack classes from nfvd-ff-e2e,08/06/2023,https://github.hpe.com/hpsd/nfvd/issues/4380
+4379,EXECUTE_TASK_DO WF doesn't treat properly status in Conditions (TLDs),09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/4379
+4366,Support MTLS in NFVD API,26/10/2022,https://github.hpe.com/hpsd/nfvd/issues/4366
+4365,Support MTLS in NFVD interfaces,10/02/2022,https://github.hpe.com/hpsd/nfvd/issues/4365
+4364,Check if components already exists in nfvd scripts,20/04/2021,https://github.hpe.com/hpsd/nfvd/issues/4364
+4356,Send the NFVD in/out traces to ZIPKIN,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/4356
+4352,[ETSI_SOL003] UI - update api used in vnfm subscriptions API,08/10/2025,https://github.hpe.com/hpsd/nfvd/issues/4352
+4346,Fix the cybersecurity issues with Discovery microservices,06/03/2023,https://github.hpe.com/hpsd/nfvd/issues/4346
+4339,Renamed NFVModel SQL Scripts,09/02/2023,https://github.hpe.com/hpsd/nfvd/issues/4339
+4338,Rename sql scripts for creating and provisioning the NFVD model,09/02/2023,https://github.hpe.com/hpsd/nfvd/issues/4338
+4332,Allow multiple IPs in a VIP. Allow to modify them for a deployed VNF,26/10/2022,https://github.hpe.com/hpsd/nfvd/issues/4332
+4312,[EPIC] NFVD Deprecation,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/4312
+4308,NFVD ELK Support ,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/4308
+4305,VCenter Adopt VMs only supports VMs connected to DVPORTGROUPS,13/09/2023,https://github.hpe.com/hpsd/nfvd/issues/4305
+4301,Test component for support changes in CNF chart structure during upgrade - Part II,22/11/2023,https://github.hpe.com/hpsd/nfvd/issues/4301
+4298,Deprecated Default mode without and with ETSI,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/4298
+4289,[NFVDv6-Porting] Generate migration scripts for delete NS connectors and definition,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/4289
+4278,Daily Automatic NFVD Upgrade Installation,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/4278
+4273,[ETSI_SOL003] [Grant]  Support isAutomaticInvocation for Scale and Heal,08/10/2025,https://github.hpe.com/hpsd/nfvd/issues/4273
+4248,Validate CNF status in 'Change CNF Package Version' API operation,22/11/2023,https://github.hpe.com/hpsd/nfvd/issues/4248
+4221,Create VNFP public catalog implementation,13/04/2021,https://github.hpe.com/hpsd/nfvd/issues/4221
+4220,Include validation retry configurable in custom process,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/4220
+4218,Improve creative VNF instance performance,27/09/2021,https://github.hpe.com/hpsd/nfvd/issues/4218
+4174,Update job status automaticaly for issues that are not mode SOSA but call HPSA,22/06/2021,https://github.hpe.com/hpsd/nfvd/issues/4174
+4154,NFVModel Default mode needs to be deleted,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/4154
+4139,[NFVDv6-Porting] Refactor NFVModel java code and change traces by logger,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/4139
+4131,[ETSI_SOL003] New FF API for subscriptions,08/10/2025,https://github.hpe.com/hpsd/nfvd/issues/4131
+4118,[NFVDv6-Porting] Refactor nfv-director.sh,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/4118
+4115,[NFVDv6-Porting] Clean up testing code,29/07/2022,https://github.hpe.com/hpsd/nfvd/issues/4115
+4113,Improve Verizon DB clone pipeline,28/09/2021,https://github.hpe.com/hpsd/nfvd/issues/4113
+4110,Documentation for GeoR schema has wrong colours,26/04/2022,https://github.hpe.com/hpsd/nfvd/issues/4110
+4102,POST_PROCESS_EXTENDED - ID of VNF instance,14/02/2023,https://github.hpe.com/hpsd/nfvd/issues/4102
+4101,When execute a retry of some test cases they are being executed again even though the status artifact is DEPLOYED,29/07/2022,https://github.hpe.com/hpsd/nfvd/issues/4101
+4099,Improvements for E2E Component tests,04/10/2024,https://github.hpe.com/hpsd/nfvd/issues/4099
+4098,Move to nfd wiki the wikis included in some ff solutions,28/10/2022,https://github.hpe.com/hpsd/nfvd/issues/4098
+4094,CNFLifeCycle RolloutRestart include check for job,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/4094
+4086,Test components - Fix asserts for instance id and instance name in job tracking ,29/07/2022,https://github.hpe.com/hpsd/nfvd/issues/4086
+4080,Improvement - replace all figures in doc set,14/02/2023,https://github.hpe.com/hpsd/nfvd/issues/4080
+4075,Check if high number of imported VNFPs (~100) still affects the import of new ones after migrating hibernate version,15/10/2021,https://github.hpe.com/hpsd/nfvd/issues/4075
+4072,Enhancements in NFVD release packaging,06/03/2023,https://github.hpe.com/hpsd/nfvd/issues/4072
+4067,[EPIC] NFVD things to be changed,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/4067
+4061,[NFVDv6-Porting] Extract CNF and VCenter Templates to another solution. NFVDModel only should be dedicated to model changes,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/4061
+4060,[NFVDv6-Porting] Not delete NFVTemplates folder when NFVAuto solution is undeployed,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/4060
+4031,[ETSI_SOL003] Refresh Validate VNFM version,08/10/2025,https://github.hpe.com/hpsd/nfvd/issues/4031
+4007,A look at VRZ DB stats,12/04/2021,https://github.hpe.com/hpsd/nfvd/issues/4007
+4002,NFVD FF API payload validation using the NFVD Model Rest API v1 (Soap UI),14/04/2021,https://github.hpe.com/hpsd/nfvd/issues/4002
+3986,NFV-D: Remove Insensitive words from docs (if any),15/10/2021,https://github.hpe.com/hpsd/nfvd/issues/3986
+3978,Provide additional new test-cases ,14/04/2021,https://github.hpe.com/hpsd/nfvd/issues/3978
+3906,Add new step in reinstallation VM pipeline to include Orchestration & Fulfillment Support Tool  v1.0 ,21/01/2021,https://github.hpe.com/hpsd/nfvd/issues/3906
+3893,NFV-D: Open Source Software Security Review,26/04/2022,https://github.hpe.com/hpsd/nfvd/issues/3893
+3892,NFV-D: Security architecture and design document,11/02/2021,https://github.hpe.com/hpsd/nfvd/issues/3892
+3825,TestSuite VcenterResizeDisk.xml,12/04/2021,https://github.hpe.com/hpsd/nfvd/issues/3825
+3824,Workflow to resize disk in VCENTER,12/04/2021,https://github.hpe.com/hpsd/nfvd/issues/3824
+3823,New Template to call Resize disk microservice call,12/04/2021,https://github.hpe.com/hpsd/nfvd/issues/3823
+3822,TLD changes for Resize disk in VCENTER,12/04/2021,https://github.hpe.com/hpsd/nfvd/issues/3822
+3821,VCENTER Microservice for resize disk,12/04/2021,https://github.hpe.com/hpsd/nfvd/issues/3821
+3815,[RESEARCH] Test VNFM (or etsi-simulator) having IPv6 endpoint,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/3815
+3787,CleanUp the default values set in artifact definitions as attribute description,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/3787
+3773,Change Default value for identityVersion from 'V2' to 'V3' in Openstack authentication,17/12/2020,https://github.hpe.com/hpsd/nfvd/issues/3773
+3768,VelocityParseTemplate and VelocityParseTemplateGP needs to be compatible with templates generated with velocity2.0,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/3768
+3746,NSO UI Design ,11/03/2021,https://github.hpe.com/hpsd/nfvd/issues/3746
+3722,Remove getToken.sh call from workflows,04/12/2020,https://github.hpe.com/hpsd/nfvd/issues/3722
+3720,Undeploy External DVPORTGROUP Improvement,24/02/2023,https://github.hpe.com/hpsd/nfvd/issues/3720
+3704,Resize cloned vcenter disk according to amount defined in VNF,12/04/2021,https://github.hpe.com/hpsd/nfvd/issues/3704
+3680,ETSI notification job status is updated asynchronously,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/3680
+3676,Support SoftwareImages in GET vnf_packages API Call,05/08/2024,https://github.hpe.com/hpsd/nfvd/issues/3676
+3611,Mirgration of all NFVD templates to be compatible with velocity 2.0,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/3611
+3610,Deprecated ETSI SOL001 NFVD extension for VIP,28/10/2022,https://github.hpe.com/hpsd/nfvd/issues/3610
+3537,[SAv9 porting] Migrate NFV-D (embedded SA in FF + align middleware versions used across all components) - Phase II,21/02/2022,https://github.hpe.com/hpsd/nfvd/issues/3537
+3521,[ETSI_SOL003] [epic] Onboard VNFPackage for new ETSI model,08/10/2025,https://github.hpe.com/hpsd/nfvd/issues/3521
+3520,[ETSI_SOL003] [epic] VNFM update for new ETSI model,08/10/2025,https://github.hpe.com/hpsd/nfvd/issues/3520
+3519,[ETSI_SOL003] Wiremock Authorization of notifications using TLS certificates,08/10/2025,https://github.hpe.com/hpsd/nfvd/issues/3519
+3518,[ETSI_SOL003] Wiremock Authorization of notifications using OAuth 2.0 access tokens,08/10/2025,https://github.hpe.com/hpsd/nfvd/issues/3518
+3517,[ETSI_SOL003] Wiremock Authorization of notifications using the HTTP Basic authentication scheme,08/10/2025,https://github.hpe.com/hpsd/nfvd/issues/3517
+3516,[ETSI_SOL003] Wiremock Authorization of API requests using TLS certificates,08/10/2025,https://github.hpe.com/hpsd/nfvd/issues/3516
+3509,[ETSI_SOL003] New ETSI support SOL003 v2.7.1 (partial),09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/3509
+3506,[ETSI_SOL003] Subscribe to VNF lifecycle change,08/10/2025,https://github.hpe.com/hpsd/nfvd/issues/3506
+3502,[ETSI_SOL003] New API to show valid flavours to set in VDUCOMPUTES,08/10/2025,https://github.hpe.com/hpsd/nfvd/issues/3502
+3501,[ETSI_SOL003] New API to show valid images to set in VDUCOMPUTES,08/10/2025,https://github.hpe.com/hpsd/nfvd/issues/3501
+3499,LCM notifications are not sent when updating attributes on a VNF VCenter,15/03/2021,https://github.hpe.com/hpsd/nfvd/issues/3499
+3496,"Use Operation State ,Usage State, VNFM Info as filters once these are implemented as part of Package Management",12/05/2021,https://github.hpe.com/hpsd/nfvd/issues/3496
+3494,Add support for Duplicate Detection as part of Create Subscription,12/05/2021,https://github.hpe.com/hpsd/nfvd/issues/3494
+3493,Test Notification Endpoint as Part of VNFP management Create Subscription,12/05/2021,https://github.hpe.com/hpsd/nfvd/issues/3493
+3467,JobTracking should be able to finish in warning when anyone of its task have that status,12/04/2021,https://github.hpe.com/hpsd/nfvd/issues/3467
+3456,[NFVDv6] Automatic Integration Test,28/08/2023,https://github.hpe.com/hpsd/nfvd/issues/3456
+3453,Custom Process available at differents levels,24/02/2023,https://github.hpe.com/hpsd/nfvd/issues/3453
+3446,Deprecate creation of Security Groups in VNFM mode,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/3446
+3445,Exclusive Security Groups,29/10/2020,https://github.hpe.com/hpsd/nfvd/issues/3445
+3413,[ETSI_SOL003] [Grant] ETSI_VNF,08/10/2025,https://github.hpe.com/hpsd/nfvd/issues/3413
+3412,Query VNF Package Management Subscription Info by filters,12/05/2021,https://github.hpe.com/hpsd/nfvd/issues/3412
+3411,Support long size values in attributes,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/3411
+3410,Send LCM Notifications embebed mode,26/04/2022,https://github.hpe.com/hpsd/nfvd/issues/3410
+3371,When upload VNF template tell to the user that filebroker references will not work in this NFVD installation,04/11/2020,https://github.hpe.com/hpsd/nfvd/issues/3371
+3370,When download VNF template tell to the user that filebroker references will not work in other NFVD installation,04/11/2020,https://github.hpe.com/hpsd/nfvd/issues/3370
+3355,Use verificable certificate for the GUI,14/10/2020,https://github.hpe.com/hpsd/nfvd/issues/3355
+3352,Deploy and run Fulfillment API on HPSA9 with codehaus libs instead of fasterxml,11/02/2021,https://github.hpe.com/hpsd/nfvd/issues/3352
+3327,Delete DeployOrganization TLD and update API to set ACTIVE status for Organization,06/10/2020,https://github.hpe.com/hpsd/nfvd/issues/3327
+3326,[NSO] Deploy an Active VL with a new Network,08/03/2021,https://github.hpe.com/hpsd/nfvd/issues/3326
+3324,[NSO] New API to create a new Virtual Link,08/03/2021,https://github.hpe.com/hpsd/nfvd/issues/3324
+3323,[NSO] NSO Alignment,08/03/2021,https://github.hpe.com/hpsd/nfvd/issues/3323
+3317,Analize Generic Recollector for improve performance,11/01/2021,https://github.hpe.com/hpsd/nfvd/issues/3317
+3310,Create a meta flavour,02/10/2020,https://github.hpe.com/hpsd/nfvd/issues/3310
+3309,[ETSI_SOL003] Refactor configuration property grant.location.url,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/3309
+3306,[ETSI_SOL003] ETSI Query VNF,08/06/2023,https://github.hpe.com/hpsd/nfvd/issues/3306
+3299,[ETSI_SOL003] ETSI operation need to make block for other operations,08/10/2025,https://github.hpe.com/hpsd/nfvd/issues/3299
+3289,Automate the process for selecting an image for a VM during the onboarding process,23/02/2022,https://github.hpe.com/hpsd/nfvd/issues/3289
+3281,TW Review of API examples guide,19/01/2021,https://github.hpe.com/hpsd/nfvd/issues/3281
+3260,Validate SAML signatures,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/3260
+3251,Edit VNF with VIM Managed mode for adding or deleting volumes,14/02/2024,https://github.hpe.com/hpsd/nfvd/issues/3251
+3247,Basic VNF Deploy with VIM Managed mode and using AAP with value false,03/08/2022,https://github.hpe.com/hpsd/nfvd/issues/3247
+3246,Basic VNF Deploy with VIM Managed mode and using AAP with value true,03/08/2022,https://github.hpe.com/hpsd/nfvd/issues/3246
+3232,Basic VNF Deploy with VIM Managed mode and using Server Groups,03/08/2022,https://github.hpe.com/hpsd/nfvd/issues/3232
+3231,Basic VNF Deploy with VIM Managed mode and reusing OpenStack Ports,03/08/2022,https://github.hpe.com/hpsd/nfvd/issues/3231
+3229,Basic VNF Deploy with VIM Managed mode and using BrownFieldDiscovery,03/08/2022,https://github.hpe.com/hpsd/nfvd/issues/3229
+3212,[NFV-D Internal]: Dev / Release Continuous Process Improvements and Automation,18/09/2020,https://github.hpe.com/hpsd/nfvd/issues/3212
+3210,[PLUGTEST] Validate if cause and AdditionalParameter in Heal operation can be absent,26/10/2021,https://github.hpe.com/hpsd/nfvd/issues/3210
+3204,Remove duplicate classes DEPLOY CNF and UNDEPLOY CNF on NFVD-FF-E2E,17/09/2020,https://github.hpe.com/hpsd/nfvd/issues/3204
+3189,[ETSI_SOL003] Wiremock simulate SOL003,08/10/2025,https://github.hpe.com/hpsd/nfvd/issues/3189
+3174,Shared paths required between FF and UI on simplex setups,26/10/2022,https://github.hpe.com/hpsd/nfvd/issues/3174
+3170,Document NFVD nodes,16/09/2020,https://github.hpe.com/hpsd/nfvd/issues/3170
+3101,Vcenter is not taking the name of the virtual_ports,24/02/2023,https://github.hpe.com/hpsd/nfvd/issues/3101
+3092,Send NFVD Job ID to VCenter microservice,23/11/2020,https://github.hpe.com/hpsd/nfvd/issues/3092
+3202,Support for not deploying UCA VPs when not necessary,11/03/2021,https://github.hpe.com/hpsd/nfvd/issues/3202
+3039,Modular approach to authentication & authorization (so we can survive each new AAA scheme for a customer),11/11/2024,https://github.hpe.com/hpsd/nfvd/issues/3039
+3015,Support Additional User Hierarchy,14/02/2023,https://github.hpe.com/hpsd/nfvd/issues/3015
+2999,Improve discovery refresh to allow more vcenter criterias,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/2999
+2988,VCENTER Policies,24/02/2023,https://github.hpe.com/hpsd/nfvd/issues/2988
+2987,VCENTER Flavours concepts,24/02/2023,https://github.hpe.com/hpsd/nfvd/issues/2987
+2956,Flexible behaivour in POLICY:POSTPRE_PROCESSING for Scale in/out not supported,19/05/2023,https://github.hpe.com/hpsd/nfvd/issues/2956
+2949,Can we have the ETSI conformance status updated please,24/08/2020,https://github.hpe.com/hpsd/nfvd/issues/2949
+2946,NFVD Force Tear Down equals true,14/02/2023,https://github.hpe.com/hpsd/nfvd/issues/2946
+2938,ETSI: For Internal Network include VNF_MANAGER.cpId attribute,11/01/2021,https://github.hpe.com/hpsd/nfvd/issues/2938
+2893,Rename attributes 'Revision' and 'Last_known_history' in OUTPUT category in CONTAINER:GENERIC,22/11/2023,https://github.hpe.com/hpsd/nfvd/issues/2893
+2869,Improve recollector logic,11/01/2021,https://github.hpe.com/hpsd/nfvd/issues/2869
+2816,Create VnfLcmNotifications ,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/2816
+2815,Basic VNF Deploy with VIM Managed mode and using a Security Enabled VLink,03/08/2022,https://github.hpe.com/hpsd/nfvd/issues/2815
+2814,Basic VNF Deploy with VIM Managed mode and using an imported vlink,03/08/2022,https://github.hpe.com/hpsd/nfvd/issues/2814
+2813,Basic VNF Deploy with VIM Managed mode and using a shared network imported,03/08/2022,https://github.hpe.com/hpsd/nfvd/issues/2813
+2772,Allow tiller configmaps to go to either kube-system or release namespace based on configuration,22/11/2023,https://github.hpe.com/hpsd/nfvd/issues/2772
+2762,Kind-of-role-based access in NFVD,11/01/2021,https://github.hpe.com/hpsd/nfvd/issues/2762
+2728,ETSI SOL003 2.6.1 to 2.7.1 support - Phase II,14/02/2023,https://github.hpe.com/hpsd/nfvd/issues/2728
+2723,Allow to detach datacenter in organzation edtion dialog,11/08/2020,https://github.hpe.com/hpsd/nfvd/issues/2723
+2718,Detach datacenter API Call,24/07/2020,https://github.hpe.com/hpsd/nfvd/issues/2718
+2717,Detach Datacenter from Organization,10/08/2020,https://github.hpe.com/hpsd/nfvd/issues/2717
+2703,HA-nfvd-ff: Deploy job fails if ff vm where WF were running is shutdown,14/02/2023,https://github.hpe.com/hpsd/nfvd/issues/2703
+2668,VIMManaged migrate to new Java Test,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/2668
+2621,VCENTER Integration,06/03/2023,https://github.hpe.com/hpsd/nfvd/issues/2621
+2599,ETSI. NOKIA vRAN Volumen attached to two VDU on the descriptor ,26/10/2022,https://github.hpe.com/hpsd/nfvd/issues/2599
+2540,Behavior of API VNF Delete operation should be aligned with delete VNF operation from UI ,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/2540
+2517,Error using nfvd.ear desscompress files ,23/12/2021,https://github.hpe.com/hpsd/nfvd/issues/2517
+2511,[SAv9 porting] Refactor package names so it is possible/easier to use corporate nexus,08/02/2021,https://github.hpe.com/hpsd/nfvd/issues/2511
+2508,[SAv9 porting] Migrate/use product SyncModule,25/07/2022,https://github.hpe.com/hpsd/nfvd/issues/2508
+2468,VNF Hybrid or manual deployment FAILS,26/04/2022,https://github.hpe.com/hpsd/nfvd/issues/2468
+2427,Ability to upload/download custom operations from the GUI,11/01/2021,https://github.hpe.com/hpsd/nfvd/issues/2427
+2361,Onboard package no must store package information in database,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/2361
+2243,Be able to Download VNF parameters and upload from VNF designer,20/05/2020,https://github.hpe.com/hpsd/nfvd/issues/2243
+2105,Multiple ips are NOT documented at all,08/03/2023,https://github.hpe.com/hpsd/nfvd/issues/2105
+2077,New resourceDefinitionId in Substructures LCM notifications,08/03/2021,https://github.hpe.com/hpsd/nfvd/issues/2077
+2076,Check if zoneId come in structure we don't fail,18/01/2021,https://github.hpe.com/hpsd/nfvd/issues/2076
+2051,Check Status after Helm delete,11/03/2021,https://github.hpe.com/hpsd/nfvd/issues/2051
+2043,Refactor InvokeRest method,16/04/2021,https://github.hpe.com/hpsd/nfvd/issues/2043
+2038,[SAv9 porting] Migrate NFV-D (embedded SA in FF + align middleware versions used across all components) - Phase I,06/03/2023,https://github.hpe.com/hpsd/nfvd/issues/2038
+2034,Deploy headers are not fully documented,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/2034
+1968,Discovery attribute for Security Groups can be replace by External_id attribute,03/02/2021,https://github.hpe.com/hpsd/nfvd/issues/1968
+1957,Finding and locating the attribute,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/1957
+1867,Package Notification to VNFManager Phase 3,05/11/2020,https://github.hpe.com/hpsd/nfvd/issues/1867
+1866,Package Notification to VNFManager Phase 2,12/05/2021,https://github.hpe.com/hpsd/nfvd/issues/1866
+1864,Full ModifyVNF support Phase 3,05/11/2020,https://github.hpe.com/hpsd/nfvd/issues/1864
+1863,Full ModifyVNF support Phase 2,05/11/2020,https://github.hpe.com/hpsd/nfvd/issues/1863
+1862,Full ModifyVNF support Phase 1,05/11/2020,https://github.hpe.com/hpsd/nfvd/issues/1862
+1782,NFVD and 5G,11/01/2021,https://github.hpe.com/hpsd/nfvd/issues/1782
+1781,"Discussion regarding support of FM, PM and Indicators in SOL 003",06/08/2020,https://github.hpe.com/hpsd/nfvd/issues/1781
+1707,Full ModifyVNF support ,03/06/2024,https://github.hpe.com/hpsd/nfvd/issues/1707
+1701,E-mail enhacements,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/1701
+1698,OPERATE functionality (Stop/Start) on the VNF level for Embedded GVNFM,31/03/2023,https://github.hpe.com/hpsd/nfvd/issues/1698
+1671,Delete Virtual Machine Launch NNMi,26/04/2022,https://github.hpe.com/hpsd/nfvd/issues/1671
+1655,The deep issues,06/04/2021,https://github.hpe.com/hpsd/nfvd/issues/1655
+1598,API Call FindByPathCount,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/1598
+1594,New API to modify state of Artifact in NFVD,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/1594
+1592,Change HPSA to get NFVD configuration from DB,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/1592
+1568,SDC (aka OBT) on AWS,06/08/2020,https://github.hpe.com/hpsd/nfvd/issues/1568
+1562,Epic - UI Improvements,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/1562
+1534,Project Sandman : SOL003 Communication View,09/10/2025,https://github.hpe.com/hpsd/nfvd/issues/1534
+1508,"Discovery creation of dummy external subnetwork,  creates confusion with multiple subnetworks associated with different projects",09/05/2023,https://github.hpe.com/hpsd/nfvd/issues/1508
+1430,Conflicts with port 8888 between CloudConfig and UCA,03/08/2020,https://github.hpe.com/hpsd/nfvd/issues/1430
+1397,Escale out based on INSTANCE isntead of template,06/08/2020,https://github.hpe.com/hpsd/nfvd/issues/1397
+1395,Discover VM as part of project based discovery and discovery refresh,06/08/2020,https://github.hpe.com/hpsd/nfvd/issues/1395
+1374,ETSI: Package Notification to VNFManager,14/02/2023,https://github.hpe.com/hpsd/nfvd/issues/1374
+1361,SSO + VNFM + Verizon Production restrictions (NFVD post SSO integration) (JIRA CMSNFVD-1946),16/01/2020,https://github.hpe.com/hpsd/nfvd/issues/1361
+1360,[SNOW-592828] Combine different VDC's into one VDC (JIRA CMSNFVD-1941),06/08/2025,https://github.hpe.com/hpsd/nfvd/issues/1360
+1130,[BEST EFFORT] New operation at Domain level to clean up a VIM (JIRA CMSNFVD-1838),14/01/2020,https://github.hpe.com/hpsd/nfvd/issues/1130
+1125,Document what LCMs NFVD provides Norhtbound (JIRA CMSNFVD-1813),10/11/2020,https://github.hpe.com/hpsd/nfvd/issues/1125
+872,[BEST EFFORT] New operation show VNF connection (JIRA CMSNFVD-1493),23/07/2020,https://github.hpe.com/hpsd/nfvd/issues/872
